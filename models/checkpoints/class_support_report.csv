@@ -1,0 +1,246 @@
+Disease_label,train_count,test_count,in_training_mapping,support_band
+Acanthosis nigricans,3,4,True,rare
+Acne,148,33,True,supported
+Acne Conglobata,54,22,True,supported
+Acne Keloidalis,1,2,True,rare
+Acne Scars,17,3,True,supported
+Acrochordon,18,3,True,supported
+Actinic Dermatitis,8,8,True,supported
+Allergic Contact Dermatitis,17,15,True,supported
+Alopecia Areata,71,12,True,supported
+Androgenic Alopecia,17,9,True,supported
+Anetoderma,2,0,True,rare
+Angioedema,1,1,True,rare
+Atopic Dermatitis,19,11,True,supported
+Balanitis,1,0,True,rare
+Basal Cell Carcinoma,6,4,True,supported
+Becker nevus,1,0,True,rare
+Bowen's Metastasis,1,0,True,rare
+Bullous Fixed Drug Eruption,0,1,False,rare
+Bullous Pemphigoid,2,1,True,rare
+Burn of skin,11,3,True,supported
+Candidal Balanoposthitis,31,11,True,supported
+Candidal Intertrigo,84,28,True,supported
+Candidal Vulvovaginitis,17,7,True,supported
+Cellulitis,1,0,True,rare
+Cheilitis,18,2,True,supported
+Cherry Angioma,4,3,True,rare
+Chickenpox exanthem,10,3,True,supported
+Chromoblastomycosis,8,0,True,supported
+Chronic Bullous Disease of Childhood,8,0,True,supported
+Chronic actinic dermatitis,11,4,True,supported
+Chronic eczema with secondary infection,1,0,True,rare
+Chronic plaque psoriasis,31,2,True,supported
+Congenital Disease,2,0,True,rare
+Contact Dermatitis,108,33,True,supported
+Contact Dermatitis with secondary infection,2,0,True,rare
+Contact purpura,1,1,True,rare
+Corn,2,0,True,rare
+Crusted eczematous dermatitis,2,0,True,rare
+Cutaneous Anthrax,1,0,True,rare
+Cutaneous amyloidosis,2,4,True,rare
+Cutaneous larva migrans,1,0,True,rare
+Cutaneous sarcoidosis,3,0,True,rare
+Cyst,0,1,False,rare
+Darier's disease,5,0,True,supported
+Demodicosis,0,3,False,rare
+Dermatofibroma,0,1,False,rare
+Dermatosis Papulosa Nigra,17,0,True,supported
+Diabetic Ulcer,9,0,True,supported
+Diaper Dermatitis,5,1,True,supported
+Discoid Lupus Erythematosus,12,0,True,supported
+Disseminated Eczema,3,6,True,rare
+Drug Rash,3,0,True,rare
+Drug eruption,5,0,True,supported
+Dry Discoid Eczema,3,0,True,rare
+Dryness (xerosis),7,0,True,supported
+Ear Eczema,8,4,True,supported
+Ecchymosis,1,1,True,rare
+Ecthyma,2,2,True,rare
+Eczema,130,26,True,supported
+Eczemated Tinea,1,0,True,rare
+Epidermal nevus,9,1,True,supported
+Epidermodysplasia Verruciformis,2,0,True,rare
+Epidermolysis Bullosa,7,0,True,supported
+Epidermolysis Bullosa Simplex,6,6,True,supported
+Erythema Annulare Centrifugum,2,1,True,rare
+Erythema multiforme,2,0,True,rare
+Erythrasma,1,0,True,rare
+Facial hypermelanosis,3,0,True,rare
+Fissure Foot,7,2,True,supported
+Fixed Drug Eruption,10,4,True,supported
+Folliculitis,21,2,True,supported
+Folliculitis Decalvans,4,3,True,rare
+Foot ulcer,2,0,True,rare
+Furuncle,27,5,True,supported
+GeographicTongue,2,0,True,rare
+Granuloma annulare,2,0,True,rare
+Granuloma pyogenic,3,1,True,rare
+Guttate Psoriasis,20,2,True,supported
+Gutted Lichen Planus,1,0,True,rare
+Haemorrhoids,1,0,True,rare
+Hansen's disease,9,2,True,supported
+Hemangioma,6,6,True,supported
+Herpes Labialis,1,2,True,rare
+Herpes Zoster,25,8,True,supported
+Herpes genitalis,3,1,True,rare
+Hidradenitis,13,1,True,supported
+Hyper Hydrosis,0,1,False,rare
+Hyperpigmentation disorder,1,0,True,rare
+Hypertrophic Lichen Planus,8,2,True,supported
+Hypertrophic Scar / Keloid,12,0,True,supported
+Idiopathic Guttate Hypomelanosis,5,4,True,supported
+Impetigo,20,4,True,supported
+Infected Eczema,62,11,True,supported
+Infected Keratoderma,6,0,True,supported
+Infected Nodule,1,0,True,rare
+Infected Tinea,4,1,True,rare
+Infection of toe web,1,0,True,rare
+Inflammatory Linear Verrucous Epidermal Nevus,1,0,True,rare
+Insect Bite Reaction,31,6,True,supported
+Inverse psoriasis,1,0,True,rare
+Itchy skin eruption,1,1,True,rare
+Keloid,18,3,True,supported
+Keloid Milium,5,0,True,supported
+Keratoacanthoma,1,0,True,rare
+Keratoderma,7,3,True,supported
+Keratoderma with Secondary Infection,0,1,False,rare
+Keratolysis Exfoliativa,3,0,True,rare
+Keratosis pilaris,6,3,True,supported
+Kerion,0,1,False,rare
+Kumkum Dermatitis,4,0,True,rare
+Kyrle���������s Disease,1,0,True,rare
+Lichen Planus,55,2,True,supported
+Lichen Planus pigmentosus,12,9,True,supported
+Lichen Simplex Chronicus,23,6,True,supported
+Lichen nitidus,12,2,True,supported
+Lichen planopilaris,3,2,True,rare
+Lichen sclerosus,6,0,True,supported
+Lichen simplex,1,0,True,rare
+Lichen spinulosus,1,1,True,rare
+Lichen striatus,3,0,True,rare
+Lichenoid eruption,4,0,True,rare
+Linear Lichen Planus,1,1,True,rare
+Lipoma,2,3,True,rare
+Lupus vulgaris,3,1,True,rare
+Maduromycosis,3,0,True,rare
+Melanoma,2,0,True,rare
+Melasma,64,16,True,supported
+Milia,8,3,True,supported
+Miliaria,1,0,True,rare
+Molluscum Contagiosum,12,2,True,supported
+Mongolian spot,1,0,True,rare
+Morphea,1,0,True,rare
+Mucosal Ulcer or Cyst,2,1,True,rare
+Mucus Cyst,1,0,True,rare
+Mycetoma,4,3,True,rare
+Mycosis fungoides,3,1,True,rare
+Myxoid Cyst,1,0,True,rare
+Nail dystrophy,2,0,True,rare
+Necrotizing Fasciitis,2,0,True,rare
+Neurofibroma,1,1,True,rare
+Nevocytic nevus,10,7,True,supported
+Nevus Depigmentosis,2,0,True,rare
+Nevus anemicus,2,0,True,rare
+Nevus sebaceous,0,1,False,rare
+No Definite Diagnosis,31,6,True,supported
+Nodular Scabies,29,5,True,supported
+Nodular vasculitis,0,1,False,rare
+Nutritional Dermatitis,1,0,True,rare
+Ochronosis,1,0,True,rare
+Onychomycosis,35,9,True,supported
+Ophiasis,2,0,True,rare
+Oral Candidiasis,5,0,True,supported
+Paederus dermatitis,7,0,True,supported
+Palmar psoriasis,3,0,True,rare
+Palmoplantar Keratoderma,37,4,True,supported
+Paronychia,3,0,True,rare
+Pellagra dermatitis,7,0,True,supported
+Pemphigus foliaceus,1,0,True,rare
+Pemphigus vulgaris,35,4,True,supported
+Perioral dermatitis,1,0,True,rare
+Phimosis,4,0,True,rare
+Photodermatitis,44,11,True,supported
+Phrynoderma,1,4,True,rare
+Phytophotodermatitis,10,4,True,supported
+Pigmented purpuric eruption,1,0,True,rare
+Pityriasis Alba,23,4,True,supported
+Pityriasis lichenoides chronica,8,0,True,supported
+Pityriasis rosea,9,0,True,supported
+Polymorphous Light Eruption,25,8,True,supported
+Port wine stain,8,0,True,supported
+Post-Inflammatory hyperpigmentation,44,10,True,supported
+Post-Inflammatory hypopigmentation,9,1,True,supported
+Prurigo,5,0,True,supported
+Prurigo Simplex,13,1,True,supported
+Prurigo nodularis,18,16,True,supported
+Pruritic Urticarial Papules,33,15,True,supported
+Pruritic dermatitis,6,1,True,supported
+Pseudo lymphoma,0,1,False,rare
+Pseudoepitheliomatous keratotic & micaceous balanitis,1,0,True,rare
+Pseudofolliculitis barbae,1,0,True,rare
+Pseudolymphoma,1,0,True,rare
+Pseudomonas,2,0,True,rare
+Psoriasis,126,33,True,supported
+Psoriasis Vulgaris,8,0,True,supported
+Purpuric Dermatoses,1,0,True,rare
+Pustular Scabies,8,2,True,supported
+Pustular psoriasis,1,0,True,rare
+Pyoderma,37,8,True,supported
+Pyoderma gangrenosum,1,1,True,rare
+Reticulate acropigmentation of Dohi,1,2,True,rare
+Rosacea,3,0,True,rare
+SLE - Systemic lupus erythematosus-related syndrome,0,1,False,rare
+Scabies,142,41,True,supported
+Scabies Infected,26,6,True,supported
+Scar Condition,12,1,True,supported
+Scleroderma,7,0,True,supported
+Scrotal Dermatitis,42,12,True,supported
+Sebaceous Cyst,8,4,True,supported
+Seborrheic Dermatitis,47,13,True,supported
+Seborrheic Keratosis,4,3,True,rare
+Seborrheic Melanosis,3,0,True,rare
+Skin ulcer,2,1,True,rare
+Squamous Cell Carcinoma,3,2,True,rare
+Staphylococcal Scalded Skin Syndrome,2,0,True,rare
+Steatocystoma Multiplex,1,0,True,rare
+Steroid Induced Facies,8,0,True,supported
+Steroid Modified Tinea,100,14,True,supported
+Striae,5,2,True,supported
+Sun damaged skin,4,0,True,rare
+Sunburn,4,0,True,rare
+Sweat Dermatitis,10,0,True,supported
+Syphilis,3,0,True,rare
+Syringoma,1,0,True,rare
+Textile Dermatitis,13,2,True,supported
+Tick bite,1,0,True,rare
+Tinea,18,4,True,supported
+Tinea Capitis,27,5,True,supported
+Tinea Corporis,271,52,True,supported
+Tinea Cruris,435,110,True,supported
+Tinea Faciei,112,25,True,supported
+Tinea Infected with secondary bacterial Infection,3,0,True,rare
+Tinea Manuum,13,4,True,supported
+Tinea Versicolor,65,13,True,supported
+Tinea pedis,8,8,True,supported
+Topical Steroid Damaged Face,56,8,True,supported
+Traction alopecia,15,2,True,supported
+Trichoepithelioma,5,0,True,supported
+Trophic Ulcer,1,0,True,rare
+Truncal Acne,24,11,True,supported
+Ulcer,4,0,True,rare
+Urticaria,43,9,True,supported
+Urticarial vasculitis,4,0,True,rare
+Varicella Zoster,5,0,True,supported
+Varicose vein,3,0,True,rare
+Vasculitis,12,0,True,supported
+Verruca Vulgaris,11,1,True,supported
+Viral exanthem,5,1,True,supported
+Vitiligo,490,111,True,supported
+Wart,21,6,True,supported
+White piedra,0,1,False,rare
+Xanthelasma Palpebrarum,1,0,True,rare
+Xanthoma,1,0,True,rare
+Xerosis,46,2,True,supported
+Xerosis vulgaris,7,0,True,supported
+Zoon's Balanitis,2,0,True,rare

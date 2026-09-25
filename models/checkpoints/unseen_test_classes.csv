@@ -1,0 +1,13 @@
+Disease_label,test_count,status
+Bullous Fixed Drug Eruption,1,unseen_in_training
+Cyst,1,unseen_in_training
+Demodicosis,3,unseen_in_training
+Dermatofibroma,1,unseen_in_training
+Hyper Hydrosis,1,unseen_in_training
+Keratoderma with Secondary Infection,1,unseen_in_training
+Kerion,1,unseen_in_training
+Nevus sebaceous,1,unseen_in_training
+Nodular vasculitis,1,unseen_in_training
+Pseudo lymphoma,1,unseen_in_training
+SLE - Systemic lupus erythematosus-related syndrome,1,unseen_in_training
+White piedra,1,unseen_in_training

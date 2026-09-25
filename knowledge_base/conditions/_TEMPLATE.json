@@ -1,0 +1,20 @@
+{
+  "_PLACEHOLDER": true,
+  "_note": "Copy this file to create a new condition entry. Fill every field from a verified medical source before real use.",
+  "condition_name": "",
+  "description": "",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": "",
+    "dark_skin": ""
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

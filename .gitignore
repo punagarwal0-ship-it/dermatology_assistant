@@ -1,0 +1,31 @@
+# Python / virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset — do NOT upload
+data/raw/
+data/processed/
+data/reports/
+
+# Checkpoints
+# Keep best_model.pth
+models/checkpoints/last_model.pth
+models/checkpoints/confusion_matrix.*
+models/checkpoints/training_history.json
+training/checkpoints/*.pth
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/

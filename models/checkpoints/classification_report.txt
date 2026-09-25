@@ -1,0 +1,155 @@
+                                                   precision    recall  f1-score   support
+
+                             Acanthosis nigricans       0.00      0.00      0.00         4
+                                             Acne       0.59      0.61      0.60        33
+                                  Acne Conglobata       0.67      0.73      0.70        22
+                                  Acne Keloidalis       0.00      0.00      0.00         2
+                                       Acne Scars       0.20      0.33      0.25         3
+                                      Acrochordon       0.00      0.00      0.00         3
+                               Actinic Dermatitis       0.00      0.00      0.00         8
+                      Allergic Contact Dermatitis       0.00      0.00      0.00        15
+                                  Alopecia Areata       0.43      0.50      0.46        12
+                              Androgenic Alopecia       0.50      0.44      0.47         9
+                                       Angioedema       0.00      0.00      0.00         1
+                                Atopic Dermatitis       0.00      0.00      0.00        11
+                             Basal Cell Carcinoma       0.00      0.00      0.00         4
+                               Bullous Pemphigoid       0.00      0.00      0.00         1
+                                     Burn of skin       0.25      0.33      0.29         3
+                         Candidal Balanoposthitis       0.82      0.82      0.82        11
+                              Candidal Intertrigo       0.28      0.39      0.32        28
+                          Candidal Vulvovaginitis       0.25      0.14      0.18         7
+                                        Cheilitis       0.40      1.00      0.57         2
+                                   Cherry Angioma       1.00      0.33      0.50         3
+                              Chickenpox exanthem       0.00      0.00      0.00         3
+                              Chromoblastomycosis       0.00      0.00      0.00         0
+                       Chronic actinic dermatitis       0.00      0.00      0.00         4
+                         Chronic plaque psoriasis       0.00      0.00      0.00         2
+                               Contact Dermatitis       0.19      0.15      0.17        33
+                                  Contact purpura       0.00      0.00      0.00         1
+                            Cutaneous amyloidosis       0.00      0.00      0.00         4
+                                 Darier's disease       0.00      0.00      0.00         0
+                        Dermatosis Papulosa Nigra       0.00      0.00      0.00         0
+                                Diaper Dermatitis       0.00      0.00      0.00         1
+                      Discoid Lupus Erythematosus       0.00      0.00      0.00         0
+                              Disseminated Eczema       0.00      0.00      0.00         6
+                               Dry Discoid Eczema       0.00      0.00      0.00         0
+                                Dryness (xerosis)       0.00      0.00      0.00         0
+                                       Ear Eczema       0.67      0.50      0.57         4
+                                       Ecchymosis       0.00      0.00      0.00         1
+                                          Ecthyma       0.00      0.00      0.00         2
+                                           Eczema       0.23      0.31      0.26        26
+                                  Epidermal nevus       0.00      0.00      0.00         1
+                  Epidermodysplasia Verruciformis       0.00      0.00      0.00         0
+                    Epidermolysis Bullosa Simplex       0.00      0.00      0.00         6
+                    Erythema Annulare Centrifugum       0.00      0.00      0.00         1
+                                     Fissure Foot       0.00      0.00      0.00         2
+                              Fixed Drug Eruption       0.00      0.00      0.00         4
+                                     Folliculitis       0.00      0.00      0.00         2
+                           Folliculitis Decalvans       0.00      0.00      0.00         3
+                                         Furuncle       0.00      0.00      0.00         5
+                               Granuloma pyogenic       0.00      0.00      0.00         1
+                                Guttate Psoriasis       0.00      0.00      0.00         2
+                                 Hansen's disease       0.00      0.00      0.00         2
+                                       Hemangioma       0.00      0.00      0.00         6
+                                  Herpes Labialis       0.00      0.00      0.00         2
+                                    Herpes Zoster       0.20      0.25      0.22         8
+                                 Herpes genitalis       0.00      0.00      0.00         1
+                                     Hidradenitis       0.00      0.00      0.00         1
+                       Hypertrophic Lichen Planus       0.00      0.00      0.00         2
+                       Hypertrophic Scar / Keloid       0.00      0.00      0.00         0
+                 Idiopathic Guttate Hypomelanosis       0.00      0.00      0.00         4
+                                         Impetigo       0.00      0.00      0.00         4
+                                  Infected Eczema       0.11      0.09      0.10        11
+                             Infected Keratoderma       0.00      0.00      0.00         0
+                                   Infected Tinea       0.00      0.00      0.00         1
+                             Insect Bite Reaction       0.12      0.17      0.14         6
+                              Itchy skin eruption       0.00      0.00      0.00         1
+                                           Keloid       0.33      0.33      0.33         3
+                                    Keloid Milium       0.00      0.00      0.00         0
+                                      Keratoderma       0.00      0.00      0.00         3
+                                Keratosis pilaris       0.00      0.00      0.00         3
+                                Kumkum Dermatitis       0.00      0.00      0.00         0
+                          Kyrle���������s Disease       0.00      0.00      0.00         0
+                                    Lichen Planus       0.00      0.00      0.00         2
+                        Lichen Planus pigmentosus       0.00      0.00      0.00         9
+                         Lichen Simplex Chronicus       0.00      0.00      0.00         6
+                                   Lichen nitidus       0.00      0.00      0.00         2
+                              Lichen planopilaris       0.00      0.00      0.00         2
+                                Lichen spinulosus       0.00      0.00      0.00         1
+                             Linear Lichen Planus       0.00      0.00      0.00         1
+                                           Lipoma       0.00      0.00      0.00         3
+                                   Lupus vulgaris       0.00      0.00      0.00         1
+                                          Melasma       0.42      0.62      0.50        16
+                                            Milia       1.00      0.33      0.50         3
+                            Molluscum Contagiosum       0.00      0.00      0.00         2
+                            Mucosal Ulcer or Cyst       0.00      0.00      0.00         1
+                                       Mucus Cyst       0.00      0.00      0.00         0
+                                         Mycetoma       0.00      0.00      0.00         3
+                                Mycosis fungoides       0.00      0.00      0.00         1
+                                     Neurofibroma       0.00      0.00      0.00         1
+                                  Nevocytic nevus       0.00      0.00      0.00         7
+                            No Definite Diagnosis       0.00      0.00      0.00         6
+                                  Nodular Scabies       0.25      0.40      0.31         5
+                           Nutritional Dermatitis       0.00      0.00      0.00         0
+                                    Onychomycosis       0.45      0.56      0.50         9
+                              Paederus dermatitis       0.00      0.00      0.00         0
+                         Palmoplantar Keratoderma       0.33      0.75      0.46         4
+                               Pemphigus vulgaris       0.00      0.00      0.00         4
+                              Perioral dermatitis       0.00      0.00      0.00         0
+                                  Photodermatitis       0.00      0.00      0.00        11
+                                      Phrynoderma       0.00      0.00      0.00         4
+                             Phytophotodermatitis       0.00      0.00      0.00         4
+                                  Pityriasis Alba       0.20      0.25      0.22         4
+                  Pityriasis lichenoides chronica       0.00      0.00      0.00         0
+                                 Pityriasis rosea       0.00      0.00      0.00         0
+                      Polymorphous Light Eruption       0.00      0.00      0.00         8
+                                  Port wine stain       0.00      0.00      0.00         0
+              Post-Inflammatory hyperpigmentation       0.00      0.00      0.00        10
+               Post-Inflammatory hypopigmentation       0.00      0.00      0.00         1
+                                  Prurigo Simplex       0.00      0.00      0.00         1
+                                Prurigo nodularis       0.00      0.00      0.00        16
+                      Pruritic Urticarial Papules       0.00      0.00      0.00        15
+                              Pruritic dermatitis       0.00      0.00      0.00         1
+                                        Psoriasis       0.29      0.18      0.22        33
+                                 Pustular Scabies       0.00      0.00      0.00         2
+                                         Pyoderma       0.22      0.25      0.24         8
+                             Pyoderma gangrenosum       0.00      0.00      0.00         1
+              Reticulate acropigmentation of Dohi       0.00      0.00      0.00         2
+                                          Scabies       0.34      0.32      0.33        41
+                                 Scabies Infected       0.14      0.17      0.15         6
+                                   Scar Condition       0.00      0.00      0.00         1
+                                      Scleroderma       0.00      0.00      0.00         0
+                               Scrotal Dermatitis       0.50      0.67      0.57        12
+                                   Sebaceous Cyst       0.00      0.00      0.00         4
+                            Seborrheic Dermatitis       0.18      0.23      0.20        13
+                             Seborrheic Keratosis       0.00      0.00      0.00         3
+                             Seborrheic Melanosis       0.00      0.00      0.00         0
+                                       Skin ulcer       0.00      0.00      0.00         1
+                          Squamous Cell Carcinoma       0.00      0.00      0.00         2
+                           Steroid Modified Tinea       0.15      0.29      0.20        14
+                                           Striae       0.00      0.00      0.00         2
+                                 Sweat Dermatitis       0.00      0.00      0.00         0
+                               Textile Dermatitis       0.00      0.00      0.00         2
+                                            Tinea       0.00      0.00      0.00         4
+                                    Tinea Capitis       0.10      0.20      0.13         5
+                                   Tinea Corporis       0.20      0.31      0.24        52
+                                     Tinea Cruris       0.56      0.63      0.59       110
+                                     Tinea Faciei       0.32      0.32      0.32        25
+Tinea Infected with secondary bacterial Infection       0.00      0.00      0.00         0
+                                     Tinea Manuum       0.08      0.25      0.12         4
+                                 Tinea Versicolor       0.12      0.15      0.14        13
+                                      Tinea pedis       0.00      0.00      0.00         8
+                     Topical Steroid Damaged Face       0.00      0.00      0.00         8
+                                Traction alopecia       0.00      0.00      0.00         2
+                                     Truncal Acne       0.36      0.36      0.36        11
+                                        Urticaria       0.10      0.11      0.11         9
+                                       Vasculitis       0.00      0.00      0.00         0
+                                 Verruca Vulgaris       0.00      0.00      0.00         1
+                                   Viral exanthem       0.00      0.00      0.00         1
+                                         Vitiligo       0.77      0.79      0.78       111
+                                             Wart       0.00      0.00      0.00         6
+                                          Xerosis       0.00      0.00      0.00         2
+
+                                         accuracy                           0.33      1037
+                                        macro avg       0.10      0.10      0.09      1037
+                                     weighted avg       0.30      0.33      0.31      1037
