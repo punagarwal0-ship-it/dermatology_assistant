@@ -121,7 +121,8 @@ def main():
         vision_results = []
         if uploaded_file is not None:
             pil_image = Image.open(uploaded_file)
-            st.image(pil_image, caption="Uploaded image", use_column_width=True)
+            # ✅ updated argument name
+            st.image(pil_image, caption="Uploaded image", use_container_width=True)
             if model is not None:
                 vision_results = run_inference(model, idx_to_label, device_and_size, pil_image)
                 st.write("**Vision model predictions:**")
