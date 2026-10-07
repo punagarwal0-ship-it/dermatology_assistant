@@ -1,0 +1,58 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Tinea Corporis",
+  "description": "A dermatophyte infection of the body surface, commonly known as body ringworm.",
+  "symptoms": [
+    "Scaly skin lesions",
+    "Itching may occur"
+  ],
+  "causes": [
+    "Dermatophyte fungi, predominantly Trichophyton and Microsporum species"
+  ],
+  "risk_factors": [
+    "Previous or concurrent tinea infection",
+    "Diabetes mellitus",
+    "Immunodeficiency",
+    "Hyperhidrosis",
+    "Xerosis",
+    "Household crowding",
+    "Contact with infected people or pets",
+    "Occlusive clothing",
+    "Close-contact recreational activities"
+  ],
+  "appearance": {
+    "general": "A superficial scaly eruption on the body; lesions may have an expanding edge as the infection spreads.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Discoid eczema",
+    "Psoriasis",
+    "Pityriasis rosea herald patch",
+    "Seborrhoeic dermatitis"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Keep affected skin clean and dry."
+  ],
+  "prevention": [
+    "Keep skin clean and dry.",
+    "Avoid sharing towels, clothing, and bedding with infected people.",
+    "Avoid close contact with infected individuals until appropriately managed.",
+    "Consider household members and pets as possible sources when recurrent infection occurs."
+  ],
+  "doctor_discussion_points": [
+    "Discuss whether skin scraping or fungal testing is needed when the diagnosis is uncertain.",
+    "Mention other tinea sites or recurrent infections."
+  ],
+  "sources": [
+    {
+      "title": "Tinea corporis (Body Ringworm)",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/tinea-corporis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

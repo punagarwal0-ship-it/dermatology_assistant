@@ -1,0 +1,48 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Tinea Capitis",
+  "description": "A dermatophyte infection of the scalp and hair.",
+  "symptoms": [
+    "Scalp scaling",
+    "Patchy hair loss may occur",
+    "Inflammation may occur in some forms"
+  ],
+  "causes": [
+    "Dermatophyte fungi infecting the scalp and hair"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Patchy scalp scaling and hair loss may occur; inflammatory forms can produce more marked scalp inflammation.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Alopecia areata",
+    "Trichotillomania",
+    "Seborrhoeic dermatitis",
+    "Atopic dermatitis",
+    "Scalp psoriasis",
+    "Discoid lupus erythematosus",
+    "Lichen planopilaris",
+    "Bacterial scalp folliculitis"
+  ],
+  "warning_signs": [
+    "Painful, markedly inflamed scalp lesions or significant hair loss warrant medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss fungal testing of scalp scale or hairs.",
+    "Discuss hair loss and whether other sites such as feet or nails are affected."
+  ],
+  "sources": [
+    {
+      "title": "Tinea capitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/tinea-capitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

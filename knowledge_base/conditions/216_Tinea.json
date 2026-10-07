@@ -1,0 +1,36 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Tinea",
+  "description": "A skin infection caused by dermatophyte fungi, commonly called ringworm.",
+  "symptoms": [],
+  "causes": [
+    "Dermatophyte fungi"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Appearance varies with the body site affected; dermatophyte infections may affect the scalp, body, groin, face, hands, feet, or nails.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Eczema",
+    "Psoriasis",
+    "Other inflammatory dermatoses"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss the body site involved and whether there are other fungal infections of the skin, scalp, or nails."
+  ],
+  "sources": [
+    {
+      "title": "Tinea (fungal skin infection)",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/tinea",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

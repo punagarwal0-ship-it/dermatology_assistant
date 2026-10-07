@@ -1,0 +1,30 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Tinea Manuum",
+  "description": "A dermatophyte infection involving the hand.",
+  "symptoms": [],
+  "causes": [
+    "Dermatophyte fungi"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Tinea",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/tinea",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

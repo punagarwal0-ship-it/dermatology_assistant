@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Tinea Infected with secondary bacterial Infection",
+  "description": "A dermatophyte skin infection complicated by secondary bacterial infection.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Fungal lesions may develop increased pain, crusting, discharge, or spreading inflammation.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Increasing pain, spreading redness, pus, fever, or systemic illness can indicate secondary bacterial infection and requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

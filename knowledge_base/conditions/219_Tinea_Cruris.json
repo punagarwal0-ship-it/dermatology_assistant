@@ -1,0 +1,42 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Tinea Cruris",
+  "description": "A dermatophyte infection affecting the groin, commonly called jock itch.",
+  "symptoms": [
+    "Itchy groin rash",
+    "Scaling may occur"
+  ],
+  "causes": [
+    "Dermatophyte fungi"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "An often asymmetrical scaly eruption in the groin.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Candidal intertrigo",
+    "Erythrasma",
+    "Flexural psoriasis",
+    "Seborrhoeic dermatitis"
+  ],
+  "warning_signs": [
+    "Maceration or signs of secondary bacterial or Candida infection warrant medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss whether skin scraping for mycology is needed to confirm the diagnosis."
+  ],
+  "sources": [
+    {
+      "title": "Tinea cruris",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/tinea-cruris",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

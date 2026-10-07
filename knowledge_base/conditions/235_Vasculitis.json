@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Vasculitis",
+  "description": "Inflammation of blood vessels that can affect the skin and sometimes internal organs.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Purpura, palpable purpura, ulcers, nodules, or other inflammatory lesions may occur depending on the vessels involved.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Skin ulcers, extensive purpura, severe pain, fever, or symptoms suggesting internal-organ involvement require prompt medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}
