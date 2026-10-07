@@ -1,0 +1,41 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Infection of toe web",
+  "description": "An infection affecting the skin between the toes, which may be fungal, bacterial, or mixed.",
+  "symptoms": [
+    "Maceration",
+    "Scaling",
+    "Itching",
+    "Pain or malodour may occur"
+  ],
+  "causes": [
+    "Fungal infection, bacterial overgrowth, or mixed infection"
+  ],
+  "risk_factors": [
+    "Sweaty feet",
+    "Occlusive footwear",
+    "Frequent moisture",
+    "Diabetes"
+  ],
+  "appearance": {
+    "general": "Macerated, peeling, cracked, or inflamed skin between the toes.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea pedis",
+    "Erythrasma",
+    "Contact dermatitis"
+  ],
+  "warning_signs": [
+    "Spreading redness, severe pain, pus, fever, or tissue breakdown requires assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Keep spaces between the toes clean and dry.",
+    "Use breathable footwear and change damp socks regularly."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

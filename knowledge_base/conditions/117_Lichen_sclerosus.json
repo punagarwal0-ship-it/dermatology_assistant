@@ -1,0 +1,24 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Lichen sclerosus",
+  "description": "A chronic inflammatory skin disorder that commonly affects the genital and perianal areas.",
+  "symptoms": [
+    "Itching or discomfort may occur"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Persistent genital or perianal symptoms should be medically assessed."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

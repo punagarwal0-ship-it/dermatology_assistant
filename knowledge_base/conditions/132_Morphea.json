@@ -1,0 +1,24 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Morphea",
+  "description": "A localized sclerosing disorder causing areas of thickened or hardened skin.",
+  "symptoms": [
+    "Localized skin thickening or hardening"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Professional assessment is appropriate for new or progressive areas of skin hardening."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

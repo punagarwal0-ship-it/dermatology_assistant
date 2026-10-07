@@ -1,0 +1,44 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Phytophotodermatitis",
+  "description": "A phototoxic skin reaction caused when plant-derived furanocoumarins contact the skin followed by ultraviolet A exposure.",
+  "symptoms": [
+    "Redness and inflammation",
+    "Blistering",
+    "Pain or burning",
+    "Post-inflammatory hyperpigmentation"
+  ],
+  "causes": [
+    "Skin contact with photosensitising plant sap or fruit containing furanocoumarins followed by sunlight exposure"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Acute lesions may be linear, streaked, drip-shaped, or splattered on exposed skin; redness and blistering may occur.",
+    "light_skin": null,
+    "dark_skin": "Post-inflammatory hyperpigmentation may be more intense in skin of colour."
+  },
+  "common_lookalikes": [
+    "Allergic contact dermatitis to plants",
+    "Burns"
+  ],
+  "warning_signs": [
+    "Extensive blistering or ulceration",
+    "Signs of secondary infection"
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Avoid skin contamination with photosensitising plant sap or juice before sun exposure.",
+    "Use protective clothing when handling known causative plants."
+  ],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Phytophotodermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/phytophotodermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Nodular Scabies",
+  "description": "A persistent nodular reaction associated with scabies infestation.",
+  "symptoms": [
+    "Itchy nodules"
+  ],
+  "causes": [
+    "Sarcoptes scabiei infestation"
+  ],
+  "risk_factors": [
+    "Previous or current scabies infestation"
+  ],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Professional evaluation is appropriate when scabies is suspected or symptoms persist."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

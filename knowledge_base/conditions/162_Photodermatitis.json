@@ -1,0 +1,42 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Photodermatitis",
+  "description": "A dermatitis pattern caused or aggravated by exposure to light, including phototoxic and photoallergic reactions.",
+  "symptoms": [
+    "Redness on sun-exposed skin",
+    "Burning or pain in phototoxic reactions",
+    "Blistering may occur",
+    "Post-inflammatory hyperpigmentation may follow some phototoxic reactions"
+  ],
+  "causes": [
+    "Phototoxic or photoallergic reactions to specific substances combined with light exposure"
+  ],
+  "risk_factors": [
+    "Sun or ultraviolet exposure",
+    "Exposure to photosensitising medicines or chemicals"
+  ],
+  "appearance": {
+    "general": "Lesions often affect sun-exposed sites such as the face, neck, V of the chest, and dorsal upper limbs.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Extensive blistering or severe pain should prompt medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Reduce ultraviolet exposure and use protective measures when advised."
+  ],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Photocontact Dermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/photocontact-dermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

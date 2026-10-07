@@ -1,0 +1,48 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Lichen Simplex Chronicus",
+  "description": "A chronic itchy skin disorder characterized by well-demarcated erythematous patches or plaques of thickened, leathery skin.",
+  "symptoms": [
+    "Persistent itch",
+    "Thickened skin",
+    "Scale",
+    "Excoriations"
+  ],
+  "causes": [
+    "A chronic itch-scratch cycle.",
+    "Underlying itchy dermatoses or other causes of pruritus can contribute."
+  ],
+  "risk_factors": [
+    "Atopic dermatitis, psoriasis, scabies or xerosis can contribute to secondary lichen simplex.",
+    "Heat, sweat, chemical irritants and insect bites can act as triggers."
+  ],
+  "appearance": {
+    "general": "Lichenified patches or plaques with accentuated skin markings.",
+    "light_skin": null,
+    "dark_skin": "Hyper- or hypopigmentation may be more prominent and erythema less obvious in darker skin."
+  },
+  "common_lookalikes": [
+    "Atopic dermatitis",
+    "Psoriasis",
+    "Lichen planus",
+    "Contact dermatitis",
+    "Mycosis fungoides"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Whether an underlying itchy disorder is present.",
+    "Whether biopsy, patch testing or fungal testing is required."
+  ],
+  "sources": [
+    {
+      "title": "Lichen simplex chronicus (Neurodermatitis)",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/lichen-simplex",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

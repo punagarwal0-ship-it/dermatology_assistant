@@ -1,0 +1,28 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Necrotizing Fasciitis",
+  "description": "A severe, rapidly progressive infection of soft tissue and fascia that requires urgent medical care.",
+  "symptoms": [
+    "Severe or rapidly worsening pain",
+    "Swelling",
+    "Systemic illness may occur"
+  ],
+  "causes": [
+    "Severe bacterial soft-tissue infection"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Rapidly worsening pain, swelling or systemic illness requires emergency medical assessment."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

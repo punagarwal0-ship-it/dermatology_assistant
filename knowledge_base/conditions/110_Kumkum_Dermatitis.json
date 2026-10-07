@@ -1,0 +1,26 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Kumkum Dermatitis",
+  "description": "A dataset label for dermatitis associated with kumkum or a related applied cosmetic substance; exact cause requires clinical verification.",
+  "symptoms": [
+    "Skin inflammation at an exposed site"
+  ],
+  "causes": [
+    "Contact with an offending substance may be involved"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Avoid the suspected irritating or allergenic product until evaluated."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

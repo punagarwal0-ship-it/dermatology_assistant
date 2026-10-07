@@ -1,0 +1,27 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Maduromycosis",
+  "description": "A chronic localized infection of skin and deeper tissues, usually affecting a limb or foot, caused by certain fungi or filamentous bacteria.",
+  "symptoms": [
+    "Chronic swelling or nodules",
+    "Possible draining sinuses"
+  ],
+  "causes": [
+    "Infection by fungi or filamentous bacteria"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Progressive swelling, nodules or draining sinuses require professional assessment."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

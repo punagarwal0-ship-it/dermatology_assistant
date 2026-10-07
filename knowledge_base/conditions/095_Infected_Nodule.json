@@ -1,0 +1,32 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Infected Nodule",
+  "description": "A skin nodule complicated by secondary infection or inflammation.",
+  "symptoms": [
+    "Pain",
+    "Redness",
+    "Tenderness",
+    "Drainage may occur"
+  ],
+  "causes": [
+    "Secondary bacterial infection of an underlying nodule or cyst"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "A red, swollen, tender nodule that may become fluctuant or drain pus.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Rapid spread, fever, severe pain, or tissue breakdown requires medical evaluation."
+  ],
+  "general_first_aid": [
+    "Do not squeeze or puncture an infected nodule.",
+    "Keep the area clean and protected."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

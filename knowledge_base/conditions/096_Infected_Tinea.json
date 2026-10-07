@@ -1,0 +1,31 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Infected Tinea",
+  "description": "A dermatophyte fungal infection complicated by secondary bacterial infection.",
+  "symptoms": [
+    "Itching",
+    "Scaling",
+    "Increased pain",
+    "Crusting or drainage may occur"
+  ],
+  "causes": [
+    "Dermatophyte infection with secondary bacterial infection"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Scaly fungal lesions with superimposed crusting, oozing, or increased inflammation.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Spreading redness, fever, increasing pain, or pus requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss fungal testing and assessment for secondary bacterial infection when lesions worsen or change."
+  ],
+  "sources": null
+}

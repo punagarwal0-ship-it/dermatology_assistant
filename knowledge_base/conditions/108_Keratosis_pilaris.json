@@ -1,0 +1,48 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Keratosis pilaris",
+  "description": "A very common, harmless dry-skin condition caused by keratin accumulation in hair follicles.",
+  "symptoms": [
+    "Small rough follicular bumps may occur.",
+    "Dryness and rough texture may be present."
+  ],
+  "causes": [
+    "Abnormal keratinisation of the upper portion of hair follicles."
+  ],
+  "risk_factors": [
+    "Childhood and adolescence are common times of onset.",
+    "It is associated with atopic eczema and ichthyosis.",
+    "It may be more prominent in winter."
+  ],
+  "appearance": {
+    "general": "Small follicular keratotic papules producing a rough, sometimes erythematous skin texture.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Atopic dermatitis",
+    "Folliculitis",
+    "Milia",
+    "Lichen nitidus",
+    "Lichen spinulosus",
+    "Phrynoderma"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Moisturising the skin may help reduce dryness and roughness."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Whether the appearance is consistent with keratosis pilaris or another follicular disorder."
+  ],
+  "sources": [
+    {
+      "title": "Keratosis Pilaris: Symptoms, Causes, and Treatment",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/keratosis-pilaris",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

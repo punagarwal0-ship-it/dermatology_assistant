@@ -1,0 +1,30 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Miliaria",
+  "description": "A sweat-related skin eruption caused by obstruction of sweat ducts.",
+  "symptoms": [
+    "Small itchy or prickly papules may occur"
+  ],
+  "causes": [
+    "Sweat duct obstruction"
+  ],
+  "risk_factors": [
+    "Heat and sweating"
+  ],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Keep the affected area cool and dry."
+  ],
+  "prevention": [
+    "Avoid excessive heat and occlusive conditions."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

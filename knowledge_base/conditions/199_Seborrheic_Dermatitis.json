@@ -1,0 +1,56 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Seborrheic Dermatitis",
+  "description": "A common chronic or relapsing inflammatory dermatitis affecting sebaceous-gland-rich areas, especially the scalp, face, and trunk.",
+  "symptoms": [
+    "Scale or flaking",
+    "Mild or absent itch in many cases",
+    "Scalp dandruff may be asymptomatic or mildly itchy"
+  ],
+  "causes": [
+    "The cause is not completely understood.",
+    "Malassezia yeast proliferation is believed to contribute to inflammation."
+  ],
+  "risk_factors": [
+    "Infancy or adulthood",
+    "Stress or lack of sleep may precipitate flares",
+    "Some neurologic conditions and medications are associated"
+  ],
+  "appearance": {
+    "general": "Ill-defined scaly patches or diffuse scale, often with yellowish/greasy or white bran-like scale; common sites include scalp, eyebrows, nasolabial folds, ears, sternum, and skin folds.",
+    "light_skin": null,
+    "dark_skin": "Darker skin may show scaly hypopigmented macules and patches; children with skin of colour may show erythema, flaking, and hypopigmentation rather than classic cradle-cap appearance."
+  },
+  "common_lookalikes": [
+    "Atopic dermatitis",
+    "Contact dermatitis",
+    "Psoriasis",
+    "Rosacea",
+    "Tinea capitis or corporis",
+    "Pityriasis rosea",
+    "Secondary syphilis",
+    "Systemic lupus erythematosus"
+  ],
+  "warning_signs": [
+    "Extensive disease or suspected secondary bacterial or fungal infection should be medically assessed."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Identify and reduce factors that trigger flares when possible.",
+    "Use an appropriate skincare routine."
+  ],
+  "doctor_discussion_points": [
+    "Discuss the distribution and recurrence of the rash.",
+    "Discuss whether another diagnosis such as psoriasis, tinea, or contact dermatitis needs consideration."
+  ],
+  "sources": [
+    {
+      "title": "Seborrhoeic dermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/seborrhoeic-dermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Pityriasis Alba",
+  "description": "A low-grade type of eczema or dermatitis mainly seen in children, characterised by pale hypopigmented patches with fine scale.",
+  "symptoms": [
+    "Minimal or absent itch",
+    "Dryness and fine scaling"
+  ],
+  "causes": [
+    "Cause is unknown",
+    "Often coexists with dry skin or atopic dermatitis"
+  ],
+  "risk_factors": [
+    "Childhood",
+    "Atopic dermatitis",
+    "Dry skin"
+  ],
+  "appearance": {
+    "general": "Round, oval, or irregular pale patches or thin plaques, commonly on the face; fine scale may be present.",
+    "light_skin": null,
+    "dark_skin": "Hypopigmentation is more prominent, and the condition may be more common, in dark skin."
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Moisturising cream may improve dryness."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Pityriasis alba",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/pityriasis-alba",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

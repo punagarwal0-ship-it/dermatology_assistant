@@ -1,0 +1,24 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Nevus sebaceous",
+  "description": "A congenital hamartomatous lesion involving sebaceous and other skin structures, often appearing as a yellowish plaque on the scalp or face.",
+  "symptoms": [
+    "Yellowish or orange-yellow plaque"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "A changing or newly symptomatic lesion should be assessed clinically."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

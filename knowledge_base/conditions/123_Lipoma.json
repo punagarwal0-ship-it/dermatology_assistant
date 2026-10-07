@@ -1,0 +1,24 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Lipoma",
+  "description": "A benign tumour of mature fat tissue that usually presents as a soft, mobile subcutaneous lump.",
+  "symptoms": [
+    "Soft lump under the skin"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "A new, enlarging, painful or otherwise changing lump should be assessed clinically."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

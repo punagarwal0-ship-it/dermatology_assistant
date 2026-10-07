@@ -1,0 +1,26 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Melasma",
+  "description": "An acquired disorder of increased pigmentation, commonly affecting the face.",
+  "symptoms": [
+    "Facial dark patches"
+  ],
+  "causes": [],
+  "risk_factors": [
+    "Sun exposure can contribute"
+  ],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Sun protection can help limit worsening."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

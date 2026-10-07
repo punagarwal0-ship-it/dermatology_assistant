@@ -1,0 +1,24 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Mongolian spot",
+  "description": "A congenital dermal melanocytic pigmentation that is usually blue-grey and present from birth or early infancy.",
+  "symptoms": [
+    "Blue-grey or slate-coloured patch"
+  ],
+  "causes": [
+    "Dermal melanocytes"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

@@ -1,0 +1,41 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Lichen nitidus",
+  "description": "An uncommon inflammatory skin condition that usually presents with tiny skin-coloured papules, often beginning in childhood.",
+  "symptoms": [
+    "Tiny papules may be asymptomatic or itchy."
+  ],
+  "causes": [
+    "The cause is unknown."
+  ],
+  "risk_factors": [
+    "It can occur in children and young adults.",
+    "It has been reported in association with lichen planus, Crohn disease, Down syndrome, atopic dermatitis and other conditions."
+  ],
+  "appearance": {
+    "general": "Pinpoint to pinhead-sized, flat-topped, shiny papules that may be skin-coloured, yellow, red-brown or violet.",
+    "light_skin": null,
+    "dark_skin": "DermNet reports that papules can be hypo- or hyperpigmented in dark skin."
+  },
+  "common_lookalikes": [
+    "Psoriasis",
+    "Pompholyx in the vesicular form"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Whether biopsy is needed for confirmation.",
+    "Whether there are associated skin or systemic conditions."
+  ],
+  "sources": [
+    {
+      "title": "Lichen nitidus",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/lichen-nitidus",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

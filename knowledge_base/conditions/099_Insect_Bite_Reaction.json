@@ -1,0 +1,25 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Insect Bite Reaction",
+  "description": "A skin reaction caused by an insect bite or sting.",
+  "symptoms": [
+    "Itching",
+    "Local redness or swelling"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Avoid further exposure to the suspected insect."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

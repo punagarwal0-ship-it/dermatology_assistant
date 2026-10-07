@@ -1,0 +1,34 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Infected Keratoderma",
+  "description": "A palmoplantar keratoderma complicated by secondary infection.",
+  "symptoms": [
+    "Pain",
+    "Cracking",
+    "Drainage or crusting may occur"
+  ],
+  "causes": [
+    "Secondary infection of thickened or fissured keratoderma"
+  ],
+  "risk_factors": [
+    "Deep fissures",
+    "Skin barrier disruption",
+    "Moist or occluded environments"
+  ],
+  "appearance": {
+    "general": "Thickened palm or sole skin with painful fissures, crusting, or signs of infection.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Spreading redness, pus, fever, or severe pain requires assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss the underlying keratoderma and whether infection is bacterial or fungal."
+  ],
+  "sources": null
+}

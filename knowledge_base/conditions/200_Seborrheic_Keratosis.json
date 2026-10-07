@@ -1,0 +1,43 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Seborrheic Keratosis",
+  "description": "A common benign warty lesion that appears during adult life and is associated with skin ageing.",
+  "symptoms": [
+    "Usually asymptomatic",
+    "An irritated lesion may become inflamed or crusted"
+  ],
+  "causes": [],
+  "risk_factors": [
+    "Increasing age"
+  ],
+  "appearance": {
+    "general": "A flat or raised papule or plaque with a smooth, waxy, or warty surface and a characteristic 'stuck-on' appearance; colours range from skin-coloured or yellow to brown or black.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Basal cell carcinoma",
+    "Squamous cell carcinoma",
+    "Melanoma",
+    "Solar lentigo"
+  ],
+  "warning_signs": [
+    "A lesion that is diagnostically uncertain, rapidly changing, or difficult to distinguish from skin cancer should be assessed by a clinician."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss any changing, irritated, or atypical lesion.",
+    "A biopsy may be considered when the diagnosis is uncertain."
+  ],
+  "sources": [
+    {
+      "title": "Seborrhoeic keratosis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/seborrhoeic-keratosis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

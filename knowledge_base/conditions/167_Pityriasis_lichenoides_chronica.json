@@ -1,0 +1,41 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Pityriasis lichenoides chronica",
+  "description": "The chronic form of pityriasis lichenoides, an uncommon cutaneous eruption of uncertain cause.",
+  "symptoms": [
+    "Small erythematous or brown papules",
+    "Mica-like scale on established lesions",
+    "Itching may occur",
+    "Relapsing or exacerbating course"
+  ],
+  "causes": [
+    "Cause is unknown; proposed mechanisms include hypersensitivity reactions, medication-associated inflammation, and other immune processes."
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Multiple small erythematous or brown papules, often with mica-like scale and lesions at different stages of evolution.",
+    "light_skin": null,
+    "dark_skin": "Dark-skinned patients may have widespread hypopigmentation and more subtle diagnostic signs."
+  },
+  "common_lookalikes": [
+    "Pityriasis rosea",
+    "Guttate psoriasis",
+    "Lichen planus",
+    "Lymphomatoid papulosis",
+    "Hypopigmented mycosis fungoides"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Pityriasis lichenoides",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/pityriasis-lichenoides",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

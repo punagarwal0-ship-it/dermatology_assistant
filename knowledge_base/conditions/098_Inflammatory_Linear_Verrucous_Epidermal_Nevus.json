@@ -1,0 +1,34 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Inflammatory Linear Verrucous Epidermal Nevus",
+  "description": "A rare inflammatory variant of epidermal nevus with linear or whorled plaques and recurrent inflammation.",
+  "symptoms": [
+    "Itching",
+    "Inflammation",
+    "Thickened or scaly lesions"
+  ],
+  "causes": [
+    "Congenital or early developmental epidermal mosaicism with inflammatory features"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Unilateral or linear verrucous plaques arranged along developmental skin lines, often with erythema and scale.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Epidermal nevus",
+    "Psoriasis",
+    "Lichen striatus"
+  ],
+  "warning_signs": [
+    "Rapid change, bleeding, ulceration, or persistent pain warrants medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss age at onset, distribution, chronicity, and whether biopsy is required for confirmation."
+  ],
+  "sources": null
+}

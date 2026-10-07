@@ -1,0 +1,50 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Keratolysis Exfoliativa",
+  "description": "A skin condition characterized by focal peeling of the palms and less often the soles.",
+  "symptoms": [
+    "Superficial blisters may occur first.",
+    "Peeling can leave tender, erythematous, circular or oval areas.",
+    "Affected skin may become dry and cracked."
+  ],
+  "causes": [
+    "The cause is unknown; cleavage occurs within the outer horny layer of the skin."
+  ],
+  "risk_factors": [
+    "Exposure to irritants such as water, soap, detergents and solvents may aggravate symptoms.",
+    "It may be more common with sweaty palms."
+  ],
+  "appearance": {
+    "general": "Focal superficial peeling of the palms, sometimes the soles, with collarettes of scale after superficial blisters rupture.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Hand dermatitis",
+    "Pompholyx",
+    "Palmoplantar psoriasis",
+    "Tinea manuum",
+    "Palmoplantar keratoderma"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Protect affected skin from irritants.",
+    "Use an appropriate emollient hand cream."
+  ],
+  "prevention": [
+    "Reduce exposure to soaps, detergents, solvents and other identified irritants."
+  ],
+  "doctor_discussion_points": [
+    "Whether fungal infection or contact dermatitis needs to be excluded if the presentation is atypical."
+  ],
+  "sources": [
+    {
+      "title": "Keratolysis exfoliativa (keratolysis exfoliativa, focal palmar peeling)",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/keratolysis-exfoliativa",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

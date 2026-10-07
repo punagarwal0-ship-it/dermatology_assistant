@@ -1,0 +1,44 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Paederus dermatitis",
+  "description": "A toxic contact dermatitis caused by exposure to paederin from Paederus rove beetles.",
+  "symptoms": [
+    "Burning sensation",
+    "Linear or streaky erythema",
+    "Vesicles and pustules may develop",
+    "Periocular involvement can occur"
+  ],
+  "causes": [
+    "Contact with paederin released by Paederus beetles"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Localised linear or streaky erythema appears about 24–48 hours after contact and may be followed by vesicles or pustules.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Eye involvement can cause keratoconjunctivitis and warrants medical assessment."
+  ],
+  "general_first_aid": [
+    "Wash exposed skin with soap and clean water after contact.",
+    "A cold wet compress may help symptoms."
+  ],
+  "prevention": [
+    "Use insect-proof netting at night.",
+    "Avoid crushing beetles on the skin; remove them without crushing.",
+    "Wash skin after contact."
+  ],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Paederus dermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/paederus-dermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

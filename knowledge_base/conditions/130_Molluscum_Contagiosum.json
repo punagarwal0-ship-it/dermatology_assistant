@@ -1,0 +1,29 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Molluscum Contagiosum",
+  "description": "A viral skin infection that produces characteristic small papules.",
+  "symptoms": [
+    "Small papules",
+    "Lesions may have central umbilication"
+  ],
+  "causes": [
+    "Molluscum contagiosum virus"
+  ],
+  "risk_factors": [
+    "Close skin-to-skin contact can facilitate spread"
+  ],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Avoid scratching or sharing personal items that contact lesions."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

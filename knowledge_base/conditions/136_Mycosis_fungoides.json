@@ -1,0 +1,26 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Mycosis fungoides",
+  "description": "The most common form of cutaneous T-cell lymphoma, a type of skin lymphoma.",
+  "symptoms": [
+    "Persistent patches or plaques may occur"
+  ],
+  "causes": [
+    "A cutaneous T-cell lymphoproliferative process"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Persistent or changing unexplained patches or plaques should be assessed by a clinician."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

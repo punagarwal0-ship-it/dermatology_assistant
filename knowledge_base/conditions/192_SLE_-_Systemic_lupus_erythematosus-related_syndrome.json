@@ -1,0 +1,47 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "SLE - Systemic lupus erythematosus-related syndrome",
+  "description": "Systemic lupus erythematosus is a chronic autoimmune inflammatory disease that can affect skin and multiple internal organs.",
+  "symptoms": [
+    "Fatigue or malaise",
+    "Fever during flares",
+    "Joint pain, swelling, or morning stiffness",
+    "Photosensitive skin eruptions",
+    "Oral ulcers",
+    "Hair loss may occur"
+  ],
+  "causes": [
+    "Immune dysregulation with production of autoantibodies",
+    "Genetic susceptibility and environmental or hormonal factors contribute"
+  ],
+  "risk_factors": [
+    "Female sex",
+    "Sun exposure can trigger or aggravate cutaneous disease",
+    "Smoking is associated with more prevalent or severe disease"
+  ],
+  "appearance": {
+    "general": "Cutaneous manifestations may include malar facial erythema, photosensitive eruptions, scaly plaques, and other forms of cutaneous lupus.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "New neurological symptoms, chest pain or breathing difficulty, significant kidney-related symptoms, or severe systemic illness require prompt medical evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Sun protection",
+    "Smoking cessation"
+  ],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Systemic lupus erythematosus",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/systemic-lupus-erythematosus",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

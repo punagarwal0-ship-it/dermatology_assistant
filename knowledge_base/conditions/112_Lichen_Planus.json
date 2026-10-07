@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Lichen Planus",
+  "description": "A chronic inflammatory condition that can affect the skin and mucosal surfaces.",
+  "symptoms": [
+    "Skin or mucosal lesions can occur."
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Clinical appearance varies by subtype and site.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Whether skin, oral, genital, nail or scalp involvement is present.",
+    "Whether clinical assessment or biopsy is needed."
+  ],
+  "sources": [
+    {
+      "title": "Lichen planus: Symptoms, Types, and Treatment with Images",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/lichen-planus",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

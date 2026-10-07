@@ -1,0 +1,39 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Lichen planopilaris",
+  "description": "An uncommon inflammatory disorder of hair follicles that can cause patchy, progressive and permanent scarring hair loss.",
+  "symptoms": [
+    "Hair loss may be accompanied by itch, pain, tenderness, discomfort or burning."
+  ],
+  "causes": [
+    "The exact cause is unknown; an autoimmune response directed at hair follicles is suspected."
+  ],
+  "risk_factors": [
+    "It may occur with lichen planus affecting skin, mucosa or nails."
+  ],
+  "appearance": {
+    "general": "Smooth white patches of scalp hair loss with loss of visible follicular openings; scale and perifollicular redness can occur at the edges.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Progressive scarring hair loss warrants professional assessment because hair loss can become permanent."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Whether scarring alopecia is present.",
+    "Whether scalp biopsy is appropriate."
+  ],
+  "sources": [
+    {
+      "title": "Lichen Planopilaris",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/lichen-planopilaris",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

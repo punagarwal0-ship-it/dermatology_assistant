@@ -1,0 +1,39 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Kerion",
+  "description": "A kerion is an intense inflammatory reaction to a dermatophyte fungal infection, usually involving the scalp or hair-bearing skin.",
+  "symptoms": [
+    "A markedly inflamed fungal lesion may occur.",
+    "Regional lymph-node enlargement can occur.",
+    "Fever or malaise can occur in some people."
+  ],
+  "causes": [
+    "Dermatophyte infection, including species of Microsporum and Trichophyton."
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "A markedly inflammatory, swollen lesion associated with dermatophyte infection.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Systemic symptoms such as fever or malaise warrant professional assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Whether fungal microscopy/culture is required.",
+    "Assessment for associated hair or scalp involvement."
+  ],
+  "sources": [
+    {
+      "title": "Kerion",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/kerion",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

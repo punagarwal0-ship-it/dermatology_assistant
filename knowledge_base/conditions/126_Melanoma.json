@@ -1,0 +1,28 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Melanoma",
+  "description": "A malignant tumour of melanocytes and an important form of skin cancer.",
+  "symptoms": [
+    "Changing pigmented lesion may occur"
+  ],
+  "causes": [],
+  "risk_factors": [
+    "Ultraviolet exposure is an established risk factor"
+  ],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Seek professional assessment for a new or changing pigmented lesion."
+  ],
+  "prevention": [
+    "Sun protection is important."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

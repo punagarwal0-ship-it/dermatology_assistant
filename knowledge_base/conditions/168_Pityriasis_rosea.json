@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Pityriasis rosea",
+  "description": "A usually self-limited inflammatory skin eruption.",
+  "symptoms": [
+    "A characteristic rash that can be difficult to recognise early",
+    "Temporary lighter or darker skin discolouration can remain"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "A papulosquamous rash; identification can be challenging early in its course.",
+    "light_skin": null,
+    "dark_skin": "Post-inflammatory lighter or darker discolouration may be more obvious and can persist for months."
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Pregnancy-associated pityriasis rosea, particularly early pregnancy, should be discussed promptly with a clinician."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Pityriasis rosea",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/pityriasis-rosea",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Mycetoma",
+  "description": "A chronic localized infection of skin and deeper tissue that can produce nodules, swelling and draining sinuses.",
+  "symptoms": [
+    "Swelling",
+    "Nodules",
+    "Draining sinuses may occur"
+  ],
+  "causes": [
+    "Fungal or bacterial organisms depending on type"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Progressive swelling or draining sinuses require professional evaluation."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}
