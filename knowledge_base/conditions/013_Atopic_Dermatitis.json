@@ -1,0 +1,53 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Atopic Dermatitis",
+  "description": "A common chronic inflammatory skin disease characterised by itch, dryness, and recurrent eczema.",
+  "symptoms": [
+    "Intense itching",
+    "Dry skin",
+    "Inflammatory rash",
+    "Cracking or excoriation"
+  ],
+  "causes": [
+    "Skin-barrier dysfunction with genetic and environmental factors"
+  ],
+  "risk_factors": [
+    "Personal or family history of atopic disease",
+    "Dry skin",
+    "Environmental irritants"
+  ],
+  "appearance": {
+    "general": "Dry, inflamed, itchy patches or plaques with variable scale, excoriation, or thickening.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Contact dermatitis",
+    "Psoriasis",
+    "Tinea"
+  ],
+  "warning_signs": [
+    "Pain, pus, fever, rapidly spreading inflammation, or extensive blistering can indicate a complication requiring assessment."
+  ],
+  "general_first_aid": [
+    "Moisturise regularly.",
+    "Avoid known irritants and excessive scratching."
+  ],
+  "prevention": [
+    "Maintain regular skin-barrier care.",
+    "Reduce known irritant exposures."
+  ],
+  "doctor_discussion_points": [
+    "Discuss flare triggers, sleep disturbance, infection, and associated asthma or allergic disease."
+  ],
+  "sources": [
+    {
+      "title": "Atopic dermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/atopic-dermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

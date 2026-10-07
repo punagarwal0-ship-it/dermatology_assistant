@@ -1,0 +1,48 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Acanthosis nigricans",
+  "description": "A skin condition characterised by velvety, thickened darkening of flexural skin, often associated with an underlying metabolic or hormonal disorder.",
+  "symptoms": [
+    "Thickened skin",
+    "Velvety texture",
+    "Darkened pigmentation"
+  ],
+  "causes": [
+    "Insulin resistance and associated metabolic or hormonal conditions",
+    "Less commonly certain medications or internal malignancy"
+  ],
+  "risk_factors": [
+    "Obesity",
+    "Type 2 diabetes or insulin resistance",
+    "Certain endocrine disorders",
+    "Certain medications"
+  ],
+  "appearance": {
+    "general": "Velvety papillomatous thickening and darkening, especially on the neck, axillae, groin, and other skin folds.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Post-inflammatory hyperpigmentation",
+    "Confluent and reticulated papillomatosis",
+    "Seborrhoeic keratosis"
+  ],
+  "warning_signs": [
+    "Abrupt widespread onset, especially without obesity or another obvious metabolic explanation, should prompt medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss metabolic risk factors, weight changes, medications, and whether blood-glucose or other evaluation is appropriate."
+  ],
+  "sources": [
+    {
+      "title": "Acanthosis nigricans",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/acanthosis-nigricans",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

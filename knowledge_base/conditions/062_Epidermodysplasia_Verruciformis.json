@@ -1,0 +1,34 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Epidermodysplasia Verruciformis",
+  "description": "A rare inherited susceptibility to infection with specific human papillomaviruses, producing characteristic flat warty or pityriasis-versicolor-like lesions.",
+  "symptoms": [
+    "Multiple flat warty lesions",
+    "Pigmented or hypopigmented patches may occur"
+  ],
+  "causes": [
+    "Inherited susceptibility to selected human papillomavirus infections"
+  ],
+  "risk_factors": [
+    "Inherited genetic susceptibility",
+    "Ultraviolet exposure contributes to skin-cancer risk"
+  ],
+  "appearance": {
+    "general": "Numerous flat-topped papules or patches resembling warts or pityriasis versicolor, often on sun-exposed skin.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "New, enlarging, bleeding, or ulcerated lesions need prompt assessment because of increased skin-cancer risk."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Reduce ultraviolet exposure and use protective measures."
+  ],
+  "doctor_discussion_points": [
+    "Discuss lifelong surveillance of lesions and any suspicious changes."
+  ],
+  "sources": null
+}

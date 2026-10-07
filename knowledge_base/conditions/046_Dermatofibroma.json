@@ -1,0 +1,42 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Dermatofibroma",
+  "description": "A common benign fibrous skin nodule, usually occurring on the limbs.",
+  "symptoms": [
+    "Usually asymptomatic",
+    "May be mildly tender or itchy"
+  ],
+  "causes": [],
+  "risk_factors": [
+    "Adults",
+    "Sometimes associated with minor trauma"
+  ],
+  "appearance": {
+    "general": "A firm papule or nodule that is tethered to the skin and may dimple when pinched.",
+    "light_skin": "May appear pink to light brown.",
+    "dark_skin": "May appear dark brown to black; some lesions are paler centrally."
+  },
+  "common_lookalikes": [
+    "Melanocytic naevus",
+    "Dermatofibrosarcoma protuberans",
+    "Other dermal nodules"
+  ],
+  "warning_signs": [
+    "Recent enlargement, ulceration, or an atypical colour pattern warrants assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss any change in size, colour, symptoms, or diagnostic uncertainty."
+  ],
+  "sources": [
+    {
+      "title": "Dermatofibroma",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/dermatofibroma",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

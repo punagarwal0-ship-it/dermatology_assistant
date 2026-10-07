@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Haemorrhoids",
+  "description": "Swollen vascular tissue in the anal canal or around the anus.",
+  "symptoms": [
+    "Anal discomfort",
+    "Itching",
+    "Bleeding with bowel movements may occur"
+  ],
+  "causes": [
+    "Swelling of hemorrhoidal vascular cushions"
+  ],
+  "risk_factors": [
+    "Constipation",
+    "Straining",
+    "Pregnancy",
+    "Prolonged sitting on the toilet"
+  ],
+  "appearance": {
+    "general": "External hemorrhoids may appear as tender lumps around the anus; internal hemorrhoids are not usually visible externally.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Heavy bleeding, severe pain, fever, or a rapidly enlarging painful lump requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss bleeding pattern, bowel habits, constipation, and whether another cause needs exclusion."
+  ],
+  "sources": null
+}

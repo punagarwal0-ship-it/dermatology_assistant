@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Cutaneous sarcoidosis",
+  "description": "A form of sarcoidosis involving the skin with non-caseating granulomatous inflammation.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Papules, plaques, or nodules may occur in various distributions.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss whether there are respiratory, eye, joint, or other systemic symptoms."
+  ],
+  "sources": null
+}

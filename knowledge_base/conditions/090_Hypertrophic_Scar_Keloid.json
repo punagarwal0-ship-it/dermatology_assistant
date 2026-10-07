@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Hypertrophic Scar / Keloid",
+  "description": "A raised scar caused by excess collagen deposition after skin injury; keloids extend beyond the original wound margins.",
+  "symptoms": [
+    "Raised scar tissue",
+    "Itching or pain may occur"
+  ],
+  "causes": [
+    "Excessive scar formation after skin injury or inflammation"
+  ],
+  "risk_factors": [
+    "Personal or family tendency to keloid formation",
+    "Certain anatomic sites",
+    "Skin trauma, piercing, or surgery"
+  ],
+  "appearance": {
+    "general": "Firm raised scars; keloids may extend beyond the original wound and continue to enlarge.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Dermatofibroma",
+    "Dermal tumour",
+    "Hypertrophic scar"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss prior keloids, surgical or piercing history, and whether the lesion extends beyond the original wound."
+  ],
+  "sources": null
+}

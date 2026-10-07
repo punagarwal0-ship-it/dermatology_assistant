@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Contact Dermatitis with secondary infection",
+  "description": "Contact dermatitis complicated by secondary infection.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Dermatitis may become more painful, crusted, oozing, or purulent.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Spreading redness, fever, severe pain, or purulent discharge requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

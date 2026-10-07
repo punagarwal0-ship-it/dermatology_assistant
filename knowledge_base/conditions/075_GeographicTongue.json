@@ -1,0 +1,30 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "GeographicTongue",
+  "description": "A benign tongue condition with shifting smooth areas caused by loss of the normal surface papillae.",
+  "symptoms": [
+    "Often no symptoms",
+    "Sensitivity or burning with spicy foods may occur"
+  ],
+  "causes": [
+    "The cause is not fully established"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Smooth irregular red areas with serpiginous pale borders on the tongue that can change location over time.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Oral candidiasis",
+    "Oral lichen planus"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss persistent pain, ulceration, or diagnostic uncertainty."
+  ],
+  "sources": null
+}

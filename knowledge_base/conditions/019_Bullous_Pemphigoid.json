@@ -1,0 +1,46 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Bullous Pemphigoid",
+  "description": "An autoimmune subepidermal blistering disease, most often affecting older adults.",
+  "symptoms": [
+    "Itching",
+    "Tense blisters",
+    "Skin erosions after blister rupture"
+  ],
+  "causes": [
+    "Autoantibodies directed against proteins at the basement membrane zone of the skin"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Neurological disease",
+    "Some medications"
+  ],
+  "appearance": {
+    "general": "Tense fluid-filled blisters arising on normal or urticated skin; widespread erosions may follow rupture.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Pemphigus",
+    "Bullous drug eruption",
+    "Insect-bite reactions"
+  ],
+  "warning_signs": [
+    "Extensive blistering, dehydration, infection, or mucosal involvement requires medical evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss new medicines, neurological history, and whether biopsy or immunofluorescence is needed."
+  ],
+  "sources": [
+    {
+      "title": "Bullous pemphigoid",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/bullous-pemphigoid",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Disseminated Eczema",
+  "description": "An eczema pattern with numerous inflammatory lesions distributed over multiple body areas.",
+  "symptoms": [
+    "Itching",
+    "Dryness",
+    "Inflamed patches or plaques"
+  ],
+  "causes": [
+    "Inflammatory dermatitis; the exact trigger varies by eczema subtype"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Multiple dry, inflamed, scaly patches or plaques may be distributed over the trunk and limbs.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Psoriasis",
+    "Tinea corporis",
+    "Contact dermatitis"
+  ],
+  "warning_signs": [
+    "Rapidly worsening pain, pus, fever, or extensive blistering warrants medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss possible triggers, distribution, duration, and any history of atopic or contact dermatitis.",
+    "Because this label describes a pattern rather than a single subtype, clinical evaluation should determine the underlying eczema subtype."
+  ],
+  "sources": null
+}

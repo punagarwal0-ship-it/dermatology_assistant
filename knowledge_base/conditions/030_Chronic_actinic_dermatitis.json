@@ -1,0 +1,48 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Chronic actinic dermatitis",
+  "description": "A rare immune-mediated photodermatosis causing chronic eczematous dermatitis predominantly on sun-exposed areas.",
+  "symptoms": [
+    "Intense itching",
+    "Eczematous rash",
+    "Photosensitivity"
+  ],
+  "causes": [],
+  "risk_factors": [
+    "Significant sun exposure",
+    "History of atopic dermatitis",
+    "Allergic or photocontact dermatitis"
+  ],
+  "appearance": {
+    "general": "Thickened itchy eczematous plaques on the face, neck, upper chest, and backs of hands and arms, with relative sparing of covered areas in many cases.",
+    "light_skin": null,
+    "dark_skin": "DermNet reports occurrence across Fitzpatrick skin types and notes earlier onset associated with skin phototypes IV–VI."
+  },
+  "common_lookalikes": [
+    "Photoaggravated eczema",
+    "Allergic contact dermatitis",
+    "Photocontact dermatitis",
+    "Cutaneous lupus"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Reduce ultraviolet exposure and protect exposed skin.",
+    "Avoid known contact or photo-contact allergens when identified."
+  ],
+  "prevention": [
+    "Strict photoprotection with protective clothing, shade, and appropriate sunscreen."
+  ],
+  "doctor_discussion_points": [
+    "Discuss sun exposure, contact allergens, and whether patch or photopatch testing is appropriate."
+  ],
+  "sources": [
+    {
+      "title": "Chronic Actinic Dermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/chronic-actinic-dermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

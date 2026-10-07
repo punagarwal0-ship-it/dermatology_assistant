@@ -1,0 +1,46 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Darier's disease",
+  "description": "An autosomal dominant inherited disorder characterised by persistent greasy scaly papules, often in seborrhoeic areas and skin folds.",
+  "symptoms": [
+    "Scaly papules",
+    "Itching may occur",
+    "Flare-ups may occur"
+  ],
+  "causes": [
+    "ATP2A2 gene mutation causing impaired calcium handling in keratinocytes"
+  ],
+  "risk_factors": [
+    "Family history",
+    "Heat and sweating",
+    "Sun exposure"
+  ],
+  "appearance": {
+    "general": "Persistent greasy or crusted papules in seborrhoeic areas and folds; lesions may coalesce into warty plaques.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Seborrhoeic dermatitis",
+    "Grover disease",
+    "Hailey-Hailey disease"
+  ],
+  "warning_signs": [
+    "Extensive blistering or secondary infection warrants medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss age at onset, family history, nail or mucosal changes, and recurrent flares."
+  ],
+  "sources": [
+    {
+      "title": "Darier disease",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/darier-disease",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

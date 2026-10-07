@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Cherry Angioma",
+  "description": "A common benign vascular lesion.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Small bright-red to dark-red papules may occur, usually on the trunk or limbs.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "A lesion that rapidly changes, repeatedly bleeds, or is diagnostically uncertain should be assessed."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

@@ -1,0 +1,38 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Hansen's disease",
+  "description": "Leprosy, or Hansen disease, is a chronic infection caused by Mycobacterium leprae that primarily affects skin and peripheral nerves.",
+  "symptoms": [
+    "Skin patches with altered sensation",
+    "Numbness",
+    "Nerve thickening or weakness may occur"
+  ],
+  "causes": [
+    "Mycobacterium leprae infection"
+  ],
+  "risk_factors": [
+    "Prolonged close contact with an untreated case",
+    "Certain environmental and host factors"
+  ],
+  "appearance": {
+    "general": "One or more lighter, reddish, or coppery skin patches may occur with reduced sensation; nodules or diffuse infiltration can occur in some forms.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea corporis",
+    "Vitiligo",
+    "Cutaneous tuberculosis",
+    "Other peripheral neuropathic dermatoses"
+  ],
+  "warning_signs": [
+    "New numbness, weakness, eye symptoms, or nerve pain requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss sensory changes, nerve symptoms, household exposure, and duration of lesions."
+  ],
+  "sources": null
+}

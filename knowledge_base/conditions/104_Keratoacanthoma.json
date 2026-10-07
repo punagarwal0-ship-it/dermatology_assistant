@@ -1,0 +1,47 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally empty.",
+  "condition_name": "Keratoacanthoma",
+  "description": "A rapidly growing, locally destructive skin tumour that can be clinically indistinguishable from well-differentiated squamous cell carcinoma.",
+  "symptoms": [
+    "A rapidly growing skin nodule may occur."
+  ],
+  "causes": [
+    "The tumour arises from the infundibulum of a hair follicle; the exact pathogenic mechanism is unclear."
+  ],
+  "risk_factors": [
+    "Ultraviolet exposure",
+    "Cutaneous trauma",
+    "Some chemical carcinogen exposures"
+  ],
+  "appearance": {
+    "general": "Typically a solitary, rapidly growing, firm nodule on sun-exposed skin, often with a central hyperkeratotic plug and crateriform appearance.",
+    "light_skin": null,
+    "dark_skin": "DermNet reports that keratoacanthomas are less common in skin of colour and that clinical features are otherwise the same."
+  },
+  "common_lookalikes": [
+    "Well-differentiated squamous cell carcinoma",
+    "Nodular basal cell carcinoma",
+    "Amelanotic melanoma"
+  ],
+  "warning_signs": [
+    "A rapidly growing or destructive skin nodule should receive prompt professional assessment because keratoacanthoma can be clinically indistinguishable from squamous cell carcinoma."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Sun protection is relevant because ultraviolet exposure is a reported risk factor."
+  ],
+  "doctor_discussion_points": [
+    "Whether biopsy or excision is required.",
+    "Whether the lesion could represent squamous cell carcinoma."
+  ],
+  "sources": [
+    {
+      "title": "Keratoacanthoma: A Complete Overview with Images",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/keratoacanthoma",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-06"
+    }
+  ]
+}

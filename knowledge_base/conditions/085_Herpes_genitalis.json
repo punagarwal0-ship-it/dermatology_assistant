@@ -1,0 +1,37 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Herpes genitalis",
+  "description": "A genital or perianal infection caused by herpes simplex virus.",
+  "symptoms": [
+    "Painful blisters or ulcers",
+    "Burning or tingling",
+    "Tender lymph nodes may occur"
+  ],
+  "causes": [
+    "Herpes simplex virus"
+  ],
+  "risk_factors": [
+    "Sexual contact with an infected partner",
+    "Previous HSV infection"
+  ],
+  "appearance": {
+    "general": "Grouped vesicles or shallow painful ulcers on genital or perianal skin or mucosa.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Syphilis",
+    "Candidiasis",
+    "Other genital ulcers"
+  ],
+  "warning_signs": [
+    "Severe pain, urinary retention, pregnancy, neurological symptoms, or extensive lesions requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss sexual exposure, previous episodes, pregnancy if relevant, and testing options."
+  ],
+  "sources": null
+}

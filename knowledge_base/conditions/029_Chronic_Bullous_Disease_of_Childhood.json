@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Chronic Bullous Disease of Childhood",
+  "description": "A childhood autoimmune blistering disorder, usually representing linear IgA bullous dermatosis.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Tense vesicles or bullae, sometimes arranged in rings or clusters, may occur.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Extensive blistering, dehydration, or eye or mucosal involvement requires medical evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

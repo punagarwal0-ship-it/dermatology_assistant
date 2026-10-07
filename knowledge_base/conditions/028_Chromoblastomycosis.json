@@ -1,0 +1,47 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Chromoblastomycosis",
+  "description": "A chronic implantation fungal infection of the skin and subcutaneous tissue, commonly affecting exposed limbs.",
+  "symptoms": [
+    "Slowly enlarging lesion",
+    "Itching",
+    "Crusting or warty surface"
+  ],
+  "causes": [
+    "Dematiaceous fungi introduced through minor skin trauma"
+  ],
+  "risk_factors": [
+    "Exposure to soil, wood, and plant material",
+    "Walking barefoot in endemic areas"
+  ],
+  "appearance": {
+    "general": "A slowly growing verrucous crusted nodule or plaque, often on the foot or hand; satellite lesions may develop.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Sporotrichosis",
+    "Atypical mycobacterial infection",
+    "Tuberculosis",
+    "Leprosy",
+    "Squamous cell carcinoma"
+  ],
+  "warning_signs": [
+    "A longstanding enlarging verrucous lesion or ulceration warrants medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss geographic exposure, trauma, lesion duration, and whether biopsy or fungal culture is needed."
+  ],
+  "sources": [
+    {
+      "title": "Chromoblastomycosis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/chromoblastomycosis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Facial hypermelanosis",
+  "description": "A descriptive term for increased pigmentation of facial skin.",
+  "symptoms": [
+    "Usually asymptomatic",
+    "Uneven facial pigmentation may be noticed"
+  ],
+  "causes": [
+    "Multiple possible causes including ultraviolet exposure, inflammation, hormones, or medications"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Brown to darker macules or patches on the face.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Melasma",
+    "Post-inflammatory hyperpigmentation",
+    "Lentigines"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss timing, sun exposure, medication history, and previous inflammatory skin conditions."
+  ],
+  "sources": null
+}

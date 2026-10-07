@@ -1,0 +1,50 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Basal Cell Carcinoma",
+  "description": "A common locally invasive skin cancer arising from basal cells of the epidermis.",
+  "symptoms": [
+    "Persistent skin lesion",
+    "Bleeding or crusting",
+    "Ulceration may occur"
+  ],
+  "causes": [
+    "Accumulated DNA damage, commonly related to ultraviolet exposure"
+  ],
+  "risk_factors": [
+    "Chronic ultraviolet exposure",
+    "Fair skin",
+    "Increasing age",
+    "Previous skin cancer"
+  ],
+  "appearance": {
+    "general": "A slowly growing skin-coloured, pink, or pigmented nodule or plaque; nodular lesions may appear shiny or pearly and can bleed or ulcerate.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Squamous cell carcinoma",
+    "Seborrhoeic keratosis",
+    "Melanoma"
+  ],
+  "warning_signs": [
+    "A persistent, enlarging, bleeding, or ulcerated lesion should be assessed by a clinician."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Reduce excessive ultraviolet exposure.",
+    "Use protective clothing and sun protection."
+  ],
+  "doctor_discussion_points": [
+    "Discuss lesion duration, change, bleeding, and cumulative sun exposure."
+  ],
+  "sources": [
+    {
+      "title": "Basal cell carcinoma",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

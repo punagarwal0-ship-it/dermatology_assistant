@@ -1,0 +1,39 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Ecthyma",
+  "description": "A deeper form of impetigo in which bacterial infection extends into the skin and produces ulcerated crusted lesions.",
+  "symptoms": [
+    "Pain or tenderness",
+    "Crusting",
+    "Ulceration"
+  ],
+  "causes": [
+    "Usually bacterial infection, commonly Staphylococcus aureus or Streptococcus pyogenes"
+  ],
+  "risk_factors": [
+    "Poor hygiene or crowded living conditions",
+    "Skin injury or insect bites",
+    "Impaired immunity"
+  ],
+  "appearance": {
+    "general": "Crusted, punched-out ulcers with a thick adherent crust may occur, often on the lower legs.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Other infected ulcers",
+    "Impetigo",
+    "Arthropod bites"
+  ],
+  "warning_signs": [
+    "Spreading redness, increasing pain, fever, or systemic illness requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Clean and protect minor skin injuries.",
+    "Avoid sharing towels and other personal items when infection is present."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

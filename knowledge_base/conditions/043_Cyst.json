@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Cyst",
+  "description": "A closed sac or cavity within the skin or subcutaneous tissue containing fluid, keratin, or other material.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "A smooth, often dome-shaped nodule may occur.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Pain, rapid growth, redness, drainage, or fever may indicate inflammation or infection."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

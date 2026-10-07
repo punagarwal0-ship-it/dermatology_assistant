@@ -1,0 +1,56 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Balanitis",
+  "description": "Inflammation of the glans penis, sometimes involving the foreskin as balanoposthitis.",
+  "symptoms": [
+    "Redness",
+    "Itching or soreness",
+    "Swelling",
+    "Discharge may occur depending on cause"
+  ],
+  "causes": [
+    "Infectious and non-infectious inflammation, including Candida, bacteria, irritants, and dermatoses"
+  ],
+  "risk_factors": [
+    "Uncircumcised status",
+    "Diabetes",
+    "Obesity",
+    "Poor hygiene",
+    "Irritant or allergic exposure"
+  ],
+  "appearance": {
+    "general": "Inflamed, reddened, irritated, or swollen glans, sometimes with erosions or discharge.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Candidal balanitis",
+    "Genital psoriasis",
+    "Lichen planus",
+    "Zoon's balanitis",
+    "Squamous cell carcinoma"
+  ],
+  "warning_signs": [
+    "Severe swelling, inability to retract the foreskin, urinary difficulty, or a persistent ulcer or mass requires medical assessment."
+  ],
+  "general_first_aid": [
+    "Gently wash with lukewarm water and dry the area carefully.",
+    "Avoid harsh soaps or fragranced products."
+  ],
+  "prevention": [
+    "Gentle genital hygiene and careful drying after washing."
+  ],
+  "doctor_discussion_points": [
+    "Discuss diabetes risk, sexual exposure, recurrent episodes, and persistent lesions."
+  ],
+  "sources": [
+    {
+      "title": "Balanitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/balanitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

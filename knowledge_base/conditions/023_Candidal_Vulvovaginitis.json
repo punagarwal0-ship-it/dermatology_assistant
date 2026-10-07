@@ -1,0 +1,28 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Candidal Vulvovaginitis",
+  "description": "A Candida infection of the vulva and vagina.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Itching, soreness, burning, fissures, and thick white discharge may occur.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": [
+    {
+      "title": "Vulvovaginal candidiasis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/vulvovaginal-candidiasis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

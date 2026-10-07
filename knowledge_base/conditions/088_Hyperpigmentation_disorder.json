@@ -1,0 +1,28 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Hyperpigmentation disorder",
+  "description": "A descriptive dataset label for disorders characterised by increased skin pigmentation.",
+  "symptoms": [
+    "Usually asymptomatic",
+    "Uneven or darker skin coloration"
+  ],
+  "causes": [
+    "Multiple possible causes including inflammation, ultraviolet exposure, hormones, medications, and systemic disorders"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Macules, patches, or diffuse areas of darker pigmentation.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss onset, distribution, sun exposure, medication history, and preceding inflammation.",
+    "Because this is a broad dataset label, clinical evaluation should determine the specific pigmentary disorder."
+  ],
+  "sources": null
+}

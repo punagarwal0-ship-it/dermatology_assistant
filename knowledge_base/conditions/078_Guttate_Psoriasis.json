@@ -1,0 +1,34 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Guttate Psoriasis",
+  "description": "A form of psoriasis characterised by numerous small drop-like scaly lesions.",
+  "symptoms": [
+    "Multiple small scaly lesions",
+    "Itching may occur"
+  ],
+  "causes": [
+    "Immune-mediated psoriasis; episodes may follow infections such as streptococcal pharyngitis"
+  ],
+  "risk_factors": [
+    "Recent streptococcal infection",
+    "Personal or family history of psoriasis"
+  ],
+  "appearance": {
+    "general": "Numerous small round or oval scaly papules and plaques, often distributed over the trunk and limbs.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Pityriasis rosea",
+    "Tinea corporis",
+    "Secondary syphilis"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Mention recent sore throat or other infection and any prior psoriasis history."
+  ],
+  "sources": null
+}

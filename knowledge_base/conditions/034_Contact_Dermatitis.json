@@ -1,0 +1,52 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Contact Dermatitis",
+  "description": "A group of inflammatory skin reactions caused by direct contact with an irritant or allergen.",
+  "symptoms": [
+    "Itching",
+    "Redness",
+    "Scaling",
+    "Swelling",
+    "Blistering or fissuring may occur"
+  ],
+  "causes": [
+    "Irritant contact dermatitis",
+    "Allergic contact dermatitis"
+  ],
+  "risk_factors": [
+    "Occupational exposure",
+    "Frequent hand washing",
+    "Detergents",
+    "Cosmetics",
+    "Metals and other contact allergens"
+  ],
+  "appearance": {
+    "general": "Variable patches of erythema, vesicles, bullae, swelling, scaling, fissuring, or lichenification.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Atopic dermatitis",
+    "Psoriasis",
+    "Tinea"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Avoid identified irritants or allergens.",
+    "Use protective measures appropriate to the exposure."
+  ],
+  "doctor_discussion_points": [
+    "Discuss occupation, new products, exposures, and whether patch testing is needed."
+  ],
+  "sources": [
+    {
+      "title": "Contact dermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/contact-dermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Erythrasma",
+  "description": "A superficial bacterial infection of skin folds caused by Corynebacterium species.",
+  "symptoms": [
+    "Mild itch or irritation",
+    "Usually limited discomfort"
+  ],
+  "causes": [
+    "Corynebacterium minutissimum and related corynebacteria"
+  ],
+  "risk_factors": [
+    "Warm humid conditions",
+    "Obesity",
+    "Diabetes",
+    "Hyperhidrosis"
+  ],
+  "appearance": {
+    "general": "Well-defined brown-red patches with fine scale, usually in skin folds such as the groin or under the breasts.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea cruris",
+    "Candidal intertrigo",
+    "Flexural psoriasis"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Keep skin folds dry and reduce prolonged moisture and friction."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

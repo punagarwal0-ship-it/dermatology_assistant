@@ -1,0 +1,50 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Angioedema",
+  "description": "Localized deeper swelling of the skin or mucosa caused by increased vascular permeability; it may be allergic, drug-related, idiopathic, or hereditary.",
+  "symptoms": [
+    "Swelling of lips or eyelids",
+    "Tightness or discomfort",
+    "Itching may occur in histamine-mediated forms"
+  ],
+  "causes": [
+    "Histamine-mediated allergic reactions",
+    "Medication reactions",
+    "Bradykinin-mediated hereditary or drug-induced forms"
+  ],
+  "risk_factors": [
+    "Allergen exposure",
+    "ACE-inhibitor use",
+    "Family history of hereditary angioedema"
+  ],
+  "appearance": {
+    "general": "Sudden deeper swelling, commonly affecting lips, eyelids, face, tongue, hands, feet, or genital areas.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Urticaria",
+    "Contact dermatitis",
+    "Cellulitis"
+  ],
+  "warning_signs": [
+    "Tongue or throat swelling, difficulty breathing, voice change, or faintness is an emergency."
+  ],
+  "general_first_aid": [
+    "Seek emergency care immediately when breathing or airway symptoms occur."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss triggers, medication exposure, family history, and whether episodes occur with or without hives."
+  ],
+  "sources": [
+    {
+      "title": "Angioedema",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/angioedema",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

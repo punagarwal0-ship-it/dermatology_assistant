@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Hyper Hydrosis",
+  "description": "Excessive sweating beyond what is needed for normal temperature regulation.",
+  "symptoms": [
+    "Excessive perspiration",
+    "Skin maceration or irritation may occur"
+  ],
+  "causes": [
+    "Primary focal hyperhidrosis or secondary causes such as medications or systemic disease"
+  ],
+  "risk_factors": [
+    "Family history in primary hyperhidrosis",
+    "Certain medical conditions or medicines in secondary hyperhidrosis"
+  ],
+  "appearance": {
+    "general": "Moist or macerated skin in areas affected by excessive sweating.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Heat rash",
+    "Sweat dermatitis"
+  ],
+  "warning_signs": [
+    "New generalized sweating, night sweats, weight loss, chest pain, or palpitations should be medically assessed."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss age at onset, distribution, triggers, medications, and whether sweating occurs during sleep."
+  ],
+  "sources": null
+}

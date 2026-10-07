@@ -1,0 +1,40 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Discoid Lupus Erythematosus",
+  "description": "A chronic cutaneous form of lupus that causes persistent inflammatory plaques and can lead to scarring and pigmentary change.",
+  "symptoms": [
+    "Persistent plaques",
+    "Scaling or crusting may occur",
+    "Itching or tenderness may occur"
+  ],
+  "causes": [
+    "Autoimmune inflammation affecting the skin"
+  ],
+  "risk_factors": [
+    "Ultraviolet exposure can aggravate disease",
+    "Smoking may be associated with more persistent disease"
+  ],
+  "appearance": {
+    "general": "Well-defined round or coin-shaped plaques with scale, follicular plugging, scarring, and pigmentary change may occur, commonly on the face, scalp, or ears.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Psoriasis",
+    "Seborrhoeic dermatitis",
+    "Tinea faciei",
+    "Lichen planus"
+  ],
+  "warning_signs": [
+    "New scarring scalp lesions or extensive persistent lesions should be medically assessed."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Reduce ultraviolet exposure with protective clothing and sun protection."
+  ],
+  "doctor_discussion_points": [
+    "Discuss photosensitivity, scarring, and any symptoms suggesting systemic lupus involvement."
+  ],
+  "sources": null
+}

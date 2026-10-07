@@ -1,0 +1,45 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Cutaneous larva migrans",
+  "description": "A parasitic skin infection caused by hookworm larvae from animal hosts that migrate within superficial skin.",
+  "symptoms": [
+    "Intense itching",
+    "Creeping or migrating tracks",
+    "Tingling or prickling at entry site"
+  ],
+  "causes": [
+    "Hookworm larvae from infected cats, dogs, or other animals"
+  ],
+  "risk_factors": [
+    "Walking barefoot on contaminated sand or soil",
+    "Travel or residence in tropical or subtropical regions"
+  ],
+  "appearance": {
+    "general": "Slightly raised, winding or snake-like itchy tracks that advance over time, commonly on the feet and between toes.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Scabies",
+    "Superficial fungal infection"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Wear footwear on potentially contaminated soil or sand.",
+    "Avoid contact with animal-faeces-contaminated soil."
+  ],
+  "doctor_discussion_points": [
+    "Discuss recent travel, barefoot exposure, and contact with sandy or moist soil."
+  ],
+  "sources": [
+    {
+      "title": "Cutaneous larva migrans",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/cutaneous-larva-migrans",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

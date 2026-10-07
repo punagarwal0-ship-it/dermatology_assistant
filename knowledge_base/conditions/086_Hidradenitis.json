@@ -1,0 +1,41 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Hidradenitis",
+  "description": "A chronic inflammatory disorder affecting hair follicles in intertriginous areas and causing recurrent nodules and abscess-like lesions.",
+  "symptoms": [
+    "Painful nodules",
+    "Tenderness",
+    "Drainage may occur",
+    "Recurrent lesions"
+  ],
+  "causes": [
+    "Follicular occlusion with chronic inflammation"
+  ],
+  "risk_factors": [
+    "Family history",
+    "Smoking",
+    "Higher body weight",
+    "Friction or occlusion"
+  ],
+  "appearance": {
+    "general": "Tender deep nodules, abscess-like lesions, draining sinuses, and scarring may occur in the axillae, groin, or other skin folds.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Furunculosis",
+    "Inflamed epidermoid cyst",
+    "Crohn disease-related lesions"
+  ],
+  "warning_signs": [
+    "Rapidly spreading redness, severe pain, fever, or extensive infection warrants medical evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss recurrence, scarring, affected sites, smoking, and any drainage or sinus tracts.",
+    "Discuss recurrent nodules, drainage, and scarring because these features help distinguish hidradenitis from isolated boils."
+  ],
+  "sources": null
+}

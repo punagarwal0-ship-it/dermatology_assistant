@@ -1,0 +1,24 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Gutted Lichen Planus",
+  "description": "A dataset label that appears to refer to lichen planus; the exact intended clinical entity represented by this label was not independently resolved.",
+  "symptoms": [
+    "Information not sufficiently verified for this exact dataset label"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Not independently resolved for this exact dataset label.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Because the dataset label is non-standard, discuss the exact diagnosis with a dermatologist rather than relying on the label alone."
+  ],
+  "sources": null
+}

@@ -1,0 +1,20 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Itchy skin eruption",
+  "description": "A dataset label describing an itchy skin eruption; the exact underlying diagnosis cannot be established from the label alone.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": []
+}

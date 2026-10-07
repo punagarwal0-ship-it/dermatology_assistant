@@ -1,0 +1,49 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Chronic plaque psoriasis",
+  "description": "The most common form of psoriasis, a chronic relapsing inflammatory skin disease.",
+  "symptoms": [
+    "Itchy or sore plaques",
+    "Scaling",
+    "Dryness or cracking"
+  ],
+  "causes": [
+    "Immune-mediated inflammatory disease with genetic and environmental contributions"
+  ],
+  "risk_factors": [
+    "Family history",
+    "Stress",
+    "Smoking",
+    "Obesity",
+    "Certain medications"
+  ],
+  "appearance": {
+    "general": "Symmetrical, sharply demarcated thickened plaques with overlying scale.",
+    "light_skin": "Plaques may appear pink or red with silver-white scale.",
+    "dark_skin": "Plaques may appear brown, purple, or grey with scale."
+  },
+  "common_lookalikes": [
+    "Seborrhoeic dermatitis",
+    "Tinea corporis",
+    "Lichen simplex chronicus",
+    "Cutaneous T-cell lymphoma"
+  ],
+  "warning_signs": [
+    "Widespread rapidly worsening disease or systemic illness requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss joint pain or stiffness because psoriasis can be associated with psoriatic arthritis."
+  ],
+  "sources": [
+    {
+      "title": "Chronic plaque psoriasis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/chronic-plaque-psoriasis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

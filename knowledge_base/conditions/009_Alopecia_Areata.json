@@ -1,0 +1,46 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Alopecia Areata",
+  "description": "An autoimmune disorder affecting hair follicles that causes patchy hair loss.",
+  "symptoms": [
+    "Discrete bald patches",
+    "Exclamation-mark hairs may occur",
+    "Hair loss can affect scalp or other hair-bearing sites"
+  ],
+  "causes": [
+    "Autoimmune attack on hair follicles"
+  ],
+  "risk_factors": [
+    "Family history",
+    "Other autoimmune conditions",
+    "Certain genetic susceptibility"
+  ],
+  "appearance": {
+    "general": "Smooth, sharply demarcated areas of non-scarring hair loss, commonly on the scalp.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea capitis",
+    "Trichotillomania",
+    "Androgenic alopecia",
+    "Discoid lupus erythematosus",
+    "Lichen planopilaris"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss onset, rate of hair loss, eyebrow or body-hair involvement, and autoimmune history."
+  ],
+  "sources": [
+    {
+      "title": "Alopecia areata",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/alopecia-areata",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

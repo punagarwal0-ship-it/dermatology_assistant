@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Ecchymosis",
+  "description": "A larger area of blood under the skin caused by bleeding from small vessels, commonly after trauma.",
+  "symptoms": [
+    "Skin discoloration",
+    "Tenderness may occur"
+  ],
+  "causes": [
+    "Blunt trauma or bleeding beneath the skin"
+  ],
+  "risk_factors": [
+    "Anticoagulant or antiplatelet medicines",
+    "Bleeding disorders",
+    "Older age"
+  ],
+  "appearance": {
+    "general": "A flat area of red, purple, blue, or yellow-brown discoloration that changes as it resolves.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Large spontaneous bruises, rapidly increasing bruising, or bruising with other bleeding should be medically assessed."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss recent trauma and any medicines that affect bleeding."
+  ],
+  "sources": null
+}

@@ -1,0 +1,40 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Dermatosis Papulosa Nigra",
+  "description": "A benign condition characterised by multiple small dark papules, especially on the face and neck.",
+  "symptoms": [
+    "Usually asymptomatic"
+  ],
+  "causes": [
+    "Likely genetically determined; lesions resemble small seborrhoeic keratoses"
+  ],
+  "risk_factors": [
+    "Family history",
+    "Skin of colour, especially Fitzpatrick phototypes IV–VI"
+  ],
+  "appearance": {
+    "general": "Multiple small smooth firm dark papules on the face and neck, sometimes extending to the upper chest or back.",
+    "light_skin": null,
+    "dark_skin": "Common in skin of colour and particularly associated with Fitzpatrick phototypes IV–VI."
+  },
+  "common_lookalikes": [
+    "Seborrhoeic keratosis",
+    "Melanocytic naevi"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss any rapidly changing, bleeding, or diagnostically uncertain papule."
+  ],
+  "sources": [
+    {
+      "title": "Dermatosis papulosa nigra",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/dermatosis-papulosa-nigra",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

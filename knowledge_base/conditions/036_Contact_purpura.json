@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Contact purpura",
+  "description": "A dataset label describing purpuric skin change associated with contact exposure.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Purpuric or bruise-like patches may occur at exposed sites.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Because the label is broad, discuss the exposure history and whether another purpuric disorder needs exclusion."
+  ],
+  "sources": null
+}

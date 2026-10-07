@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Epidermolysis Bullosa",
+  "description": "A group of inherited disorders characterised by skin and mucosal fragility with blister formation after minor trauma.",
+  "symptoms": [
+    "Blistering",
+    "Skin fragility",
+    "Pain or erosions may occur"
+  ],
+  "causes": [
+    "Inherited defects affecting structural proteins of the skin"
+  ],
+  "risk_factors": [
+    "Genetic predisposition"
+  ],
+  "appearance": {
+    "general": "Blisters and erosions may occur after minor friction or trauma; severity and distribution vary by subtype.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Extensive blistering, infection, dehydration, difficulty swallowing, or breathing problems require urgent medical care."
+  ],
+  "general_first_aid": [
+    "Protect fragile skin from friction and trauma.",
+    "Seek medical care for extensive blistering or signs of infection."
+  ],
+  "prevention": [
+    "Reduce friction and avoid avoidable trauma to fragile skin."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

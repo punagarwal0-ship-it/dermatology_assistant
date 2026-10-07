@@ -1,0 +1,42 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Folliculitis",
+  "description": "Inflammation or infection centred on hair follicles.",
+  "symptoms": [
+    "Small red papules",
+    "Pustules",
+    "Itching or tenderness"
+  ],
+  "causes": [
+    "Bacterial infection, yeast, occlusion, friction, or other follicular inflammation depending on subtype"
+  ],
+  "risk_factors": [
+    "Shaving",
+    "Sweating",
+    "Occlusive clothing",
+    "Friction",
+    "Hot-tub exposure"
+  ],
+  "appearance": {
+    "general": "Small follicular papules or pustules, often centered on hairs.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Acne",
+    "Insect bites",
+    "Miliaria",
+    "Keratosis pilaris"
+  ],
+  "warning_signs": [
+    "Rapidly spreading redness, severe pain, fever, or large abscess-like lesions require medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Reduce friction and occlusion.",
+    "Use clean shaving equipment and avoid repeated irritation."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

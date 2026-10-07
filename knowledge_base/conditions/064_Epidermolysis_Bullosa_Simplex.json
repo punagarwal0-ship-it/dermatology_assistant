@@ -1,0 +1,32 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Epidermolysis Bullosa Simplex",
+  "description": "A subtype of epidermolysis bullosa caused by fragility within the superficial layers of the epidermis.",
+  "symptoms": [
+    "Recurrent blistering after friction or trauma",
+    "Pain may occur"
+  ],
+  "causes": [
+    "Inherited defects in epidermal structural proteins"
+  ],
+  "risk_factors": [
+    "Genetic predisposition",
+    "Friction or mechanical trauma"
+  ],
+  "appearance": {
+    "general": "Blisters usually develop at sites of friction or minor trauma.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Widespread blistering, dehydration, infection, or mucosal involvement requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Reduce friction and trauma to affected areas."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

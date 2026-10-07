@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Hypertrophic Lichen Planus",
+  "description": "A hypertrophic form of lichen planus characterised by thick, intensely pruritic plaques or nodules.",
+  "symptoms": [
+    "Severe itching",
+    "Thickened plaques or nodules"
+  ],
+  "causes": [
+    "Inflammatory lichen planus"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Thick hyperkeratotic or verrucous plaques, commonly on the shins or other extremities.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Hypertrophic eczema",
+    "Psoriasis",
+    "Squamous cell carcinoma"
+  ],
+  "warning_signs": [
+    "Persistent ulceration, bleeding, marked pain, or a lesion that changes should be assessed to exclude malignancy."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss long-standing itchy plaques and whether biopsy is needed for uncertain or changing lesions."
+  ],
+  "sources": null
+}

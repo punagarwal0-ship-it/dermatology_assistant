@@ -1,0 +1,43 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Dryness (xerosis)",
+  "description": "Dryness of the skin caused by reduced water content in the outer skin layer.",
+  "symptoms": [
+    "Roughness",
+    "Scaling",
+    "Tightness",
+    "Itching",
+    "Cracking may occur"
+  ],
+  "causes": [
+    "Dry environmental conditions",
+    "Frequent washing or exposure to soaps and detergents",
+    "Age-related changes in skin barrier"
+  ],
+  "risk_factors": [
+    "Cold or dry weather",
+    "Frequent bathing",
+    "Older age",
+    "Eczematous skin"
+  ],
+  "appearance": {
+    "general": "Dry, rough, scaly skin with fine fissuring in more severe areas.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Use bland moisturising products regularly.",
+    "Avoid very hot water and harsh soaps or detergents."
+  ],
+  "prevention": [
+    "Moisturise regularly.",
+    "Limit prolonged exposure to hot water and harsh cleansers."
+  ],
+  "doctor_discussion_points": [
+    "Discuss persistent dryness, fissuring, severe itch, or a possible underlying skin/systemic condition if symptoms do not improve."
+  ],
+  "sources": null
+}

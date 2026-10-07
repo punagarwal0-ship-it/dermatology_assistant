@@ -1,0 +1,43 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Eczema",
+  "description": "A group of inflammatory skin conditions characterised by itching, dryness, and inflammation.",
+  "symptoms": [
+    "Itching",
+    "Dryness",
+    "Redness or inflammation",
+    "Scaling",
+    "Cracking may occur"
+  ],
+  "causes": [
+    "Inflammatory skin-barrier dysfunction; triggers vary by eczema subtype"
+  ],
+  "risk_factors": [
+    "Personal or family history of atopic disease",
+    "Irritant exposure",
+    "Dry skin"
+  ],
+  "appearance": {
+    "general": "Dry, inflamed, itchy patches or plaques with variable scale, excoriation, or thickening.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Psoriasis",
+    "Contact dermatitis",
+    "Tinea"
+  ],
+  "warning_signs": [
+    "Pain, pus, fever, rapidly spreading inflammation, or extensive blistering can indicate a complication requiring assessment."
+  ],
+  "general_first_aid": [
+    "Moisturise regularly.",
+    "Avoid known skin irritants and excessive scratching."
+  ],
+  "prevention": [
+    "Maintain skin barrier care and reduce known irritant exposures."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

@@ -1,0 +1,37 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Granuloma pyogenic",
+  "description": "A rapidly growing benign vascular lesion that often develops after minor trauma or irritation.",
+  "symptoms": [
+    "Easy bleeding",
+    "Friability",
+    "Rapid growth"
+  ],
+  "causes": [
+    "Reactive vascular proliferation; minor trauma can precede some lesions"
+  ],
+  "risk_factors": [
+    "Trauma or irritation",
+    "Pregnancy can be associated with some lesions"
+  ],
+  "appearance": {
+    "general": "A bright red or red-purple friable papule or nodule that may ulcerate or bleed easily.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Amelanotic melanoma",
+    "Squamous cell carcinoma",
+    "Bacillary angiomatosis"
+  ],
+  "warning_signs": [
+    "Persistent bleeding or diagnostic uncertainty warrants medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss recent trauma, pregnancy, medications, and whether biopsy is needed for confirmation."
+  ],
+  "sources": null
+}

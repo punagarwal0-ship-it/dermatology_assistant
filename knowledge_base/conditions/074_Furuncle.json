@@ -1,0 +1,38 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Furuncle",
+  "description": "A tender deep infection of a hair follicle and surrounding tissue, commonly called a boil.",
+  "symptoms": [
+    "Painful lump",
+    "Tenderness",
+    "Pus may develop"
+  ],
+  "causes": [
+    "Usually bacterial infection of a hair follicle, commonly Staphylococcus aureus"
+  ],
+  "risk_factors": [
+    "Skin friction or trauma",
+    "Crowding",
+    "Diabetes",
+    "Impaired immunity"
+  ],
+  "appearance": {
+    "general": "A tender red or inflamed nodule that may become fluctuant and develop a central pustule.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Rapidly spreading redness, fever, severe pain, or lesions near the eye or nose require medical assessment."
+  ],
+  "general_first_aid": [
+    "Keep the area clean and protected.",
+    "Do not squeeze or puncture the lesion."
+  ],
+  "prevention": [
+    "Good skin hygiene and avoidance of sharing personal towels or razors."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

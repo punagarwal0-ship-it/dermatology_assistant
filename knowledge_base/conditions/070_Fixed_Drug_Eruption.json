@@ -1,0 +1,36 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Fixed Drug Eruption",
+  "description": "A localized cutaneous drug reaction that recurs at the same site after re-exposure to the causative medicine.",
+  "symptoms": [
+    "Burning or itching",
+    "Well-defined lesion",
+    "Residual dark pigmentation may remain"
+  ],
+  "causes": [
+    "Delayed hypersensitivity reaction to a medication"
+  ],
+  "risk_factors": [
+    "Previous exposure to the causative drug"
+  ],
+  "appearance": {
+    "general": "One or more sharply demarcated round or oval erythematous or dusky patches that may blister and later leave pigmentation.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Contact dermatitis",
+    "Erythema multiforme",
+    "Cellulitis"
+  ],
+  "warning_signs": [
+    "Multiple lesions, mucosal involvement, extensive blistering, or systemic symptoms require prompt medical evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Bring the medication list and note which drug was taken before the lesion appeared."
+  ],
+  "sources": null
+}

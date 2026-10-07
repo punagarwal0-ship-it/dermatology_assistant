@@ -1,0 +1,26 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Burn of skin",
+  "description": "Skin injury caused by heat, chemicals, electricity, radiation, or friction.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Redness, pain, blistering, or deeper tissue injury may occur depending on severity.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Large burns, deep burns, facial or genital burns, electrical or chemical burns, or signs of inhalation injury require urgent medical evaluation."
+  ],
+  "general_first_aid": [
+    "Cool the burn with cool running water as soon as practical after injury.",
+    "Do not apply ice directly to the burn.",
+    "Do not deliberately break blisters."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

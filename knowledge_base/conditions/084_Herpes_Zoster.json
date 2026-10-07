@@ -1,0 +1,39 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Herpes Zoster",
+  "description": "A reactivation of latent varicella-zoster virus in a sensory nerve and its skin distribution.",
+  "symptoms": [
+    "Pain or burning",
+    "Grouped blisters",
+    "Tingling or increased skin sensitivity"
+  ],
+  "causes": [
+    "Reactivation of varicella-zoster virus"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Immunosuppression",
+    "Previous varicella infection"
+  ],
+  "appearance": {
+    "general": "Painful grouped vesicles on an erythematous base, typically confined to one side of the body in a dermatomal distribution.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Herpes simplex",
+    "Contact dermatitis",
+    "Impetigo"
+  ],
+  "warning_signs": [
+    "Facial or eye involvement, widespread lesions, severe pain, neurological symptoms, or immunosuppression requires prompt medical evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss onset time because early assessment can affect treatment options.",
+    "Mention eye, ear, or facial involvement."
+  ],
+  "sources": null
+}

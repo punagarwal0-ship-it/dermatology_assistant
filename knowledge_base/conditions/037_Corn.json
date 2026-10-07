@@ -1,0 +1,23 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Corn",
+  "description": "A localized thickening of skin caused by repeated pressure or friction, commonly on the toes or feet.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "A firm, well-defined hyperkeratotic area may be painful with pressure.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Reduce repeated pressure or friction.",
+    "Use appropriately fitting footwear."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Fissure Foot",
+  "description": "A skin fissure affecting the foot, often associated with dryness or thickened skin.",
+  "symptoms": [
+    "Pain",
+    "Dryness",
+    "Cracking or fissuring"
+  ],
+  "causes": [
+    "Dry skin and mechanical stress; underlying dermatitis or keratoderma may contribute"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Linear cracks or fissures, commonly on weight-bearing or thickened areas of the foot.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Deep painful fissures with redness, pus, fever, or spreading inflammation require assessment."
+  ],
+  "general_first_aid": [
+    "Protect the fissured area and keep it moisturised.",
+    "Seek medical care for signs of infection."
+  ],
+  "prevention": [
+    "Regular moisturisation and reduction of excessive friction or dryness."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

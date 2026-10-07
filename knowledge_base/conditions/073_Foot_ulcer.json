@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Foot ulcer",
+  "description": "A persistent open sore on the foot caused by tissue breakdown.",
+  "symptoms": [
+    "Open wound",
+    "Pain may occur",
+    "Drainage may occur"
+  ],
+  "causes": [
+    "Pressure, trauma, impaired circulation, neuropathy, infection, or other chronic disease"
+  ],
+  "risk_factors": [
+    "Diabetes",
+    "Peripheral neuropathy",
+    "Peripheral vascular disease",
+    "Pressure or repeated trauma"
+  ],
+  "appearance": {
+    "general": "A persistent defect in the skin of the foot that may have surrounding callus, inflammation, or necrotic tissue depending on cause.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Increasing pain, redness, warmth, pus, fever, spreading inflammation, black tissue, or rapidly worsening ulcer requires prompt medical evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss diabetes status, sensation, circulation, footwear, and duration of the ulcer."
+  ],
+  "sources": null
+}

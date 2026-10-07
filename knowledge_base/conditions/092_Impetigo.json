@@ -1,0 +1,42 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Impetigo",
+  "description": "A common superficial bacterial skin infection that is contagious.",
+  "symptoms": [
+    "Pustules",
+    "Crusting",
+    "Itching or soreness"
+  ],
+  "causes": [
+    "Usually Staphylococcus aureus and/or Streptococcus pyogenes"
+  ],
+  "risk_factors": [
+    "Close contact",
+    "Minor skin trauma",
+    "Crowding",
+    "Underlying eczema"
+  ],
+  "appearance": {
+    "general": "Superficial erosions and characteristic honey-coloured crusts are common; bullous forms produce flaccid blisters.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Ecthyma",
+    "Herpes simplex",
+    "Contact dermatitis"
+  ],
+  "warning_signs": [
+    "Rapid spread, fever, extensive lesions, or signs of deeper infection require medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Keep lesions clean and covered when practical.",
+    "Avoid sharing towels, clothing, and personal items."
+  ],
+  "doctor_discussion_points": [
+    "Discuss whether other household members are affected and whether there is recurrent infection."
+  ],
+  "sources": null
+}

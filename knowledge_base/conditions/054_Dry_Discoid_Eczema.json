@@ -1,0 +1,38 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Dry Discoid Eczema",
+  "description": "A form of eczema characterized by coin-shaped, dry inflammatory plaques.",
+  "symptoms": [
+    "Itching",
+    "Dryness",
+    "Scaling"
+  ],
+  "causes": [
+    "Eczematous inflammation; triggers can include dry skin and irritant exposure"
+  ],
+  "risk_factors": [
+    "Dry skin",
+    "Winter or low humidity",
+    "Irritant exposure"
+  ],
+  "appearance": {
+    "general": "Round or coin-shaped dry, scaly, inflamed plaques may occur on the limbs or trunk.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea corporis",
+    "Psoriasis",
+    "Allergic contact dermatitis"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Maintain skin hydration and reduce avoidable irritant exposure."
+  ],
+  "doctor_discussion_points": [
+    "Discuss whether fungal testing is needed if lesions have an expanding border or do not respond as expected."
+  ],
+  "sources": null
+}

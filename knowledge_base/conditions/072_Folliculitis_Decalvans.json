@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Folliculitis Decalvans",
+  "description": "A chronic inflammatory scarring disorder of the scalp causing follicular pustules and progressive permanent hair loss.",
+  "symptoms": [
+    "Scalp pustules",
+    "Crusting",
+    "Hair loss",
+    "Tenderness or itching"
+  ],
+  "causes": [
+    "Chronic inflammatory follicular disorder; the precise initiating mechanism is not fully established"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Pustules and crusting around scalp hairs with expanding areas of scarring hair loss.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea capitis",
+    "Lichen planopilaris",
+    "Dissecting cellulitis"
+  ],
+  "warning_signs": [
+    "Rapidly progressive permanent hair loss or painful inflamed scalp warrants dermatologic assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss the extent and progression of hair loss and whether scalp biopsy or fungal testing is needed."
+  ],
+  "sources": null
+}

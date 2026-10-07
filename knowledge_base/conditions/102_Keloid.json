@@ -1,0 +1,29 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Keloid",
+  "description": "A raised scar caused by excessive scar tissue formation after skin injury.",
+  "symptoms": [
+    "Raised scar",
+    "Possible itch or tenderness"
+  ],
+  "causes": [
+    "Excessive scar formation during wound healing"
+  ],
+  "risk_factors": [
+    "Previous skin injury or surgery"
+  ],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Discuss persistent, painful or enlarging scars with a clinician."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

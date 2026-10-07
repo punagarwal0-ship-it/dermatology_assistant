@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Eczemated Tinea",
+  "description": "A dermatophyte fungal infection whose appearance has been modified or obscured by eczema-like inflammation.",
+  "symptoms": [
+    "Itching",
+    "Scaling",
+    "Inflammation"
+  ],
+  "causes": [
+    "Dermatophyte infection with an eczematous appearance"
+  ],
+  "risk_factors": [
+    "Previous topical corticosteroid exposure may alter the clinical appearance",
+    "Moist or occluded skin"
+  ],
+  "appearance": {
+    "general": "Inflamed, scaly lesions may lack the classic border of untreated tinea.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Eczema",
+    "Contact dermatitis",
+    "Psoriasis"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss whether fungal examination or testing is needed when a presumed eczema lesion is atypical or persistent."
+  ],
+  "sources": null
+}

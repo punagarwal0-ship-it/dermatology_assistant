@@ -1,0 +1,40 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Acne Scars",
+  "description": "Permanent or persistent textural and pigmentary changes left after inflammatory acne.",
+  "symptoms": [
+    "Indented or raised scars",
+    "Persistent colour change may occur"
+  ],
+  "causes": [],
+  "risk_factors": [
+    "More severe or prolonged acne",
+    "Nodulocystic acne",
+    "Picking or squeezing lesions"
+  ],
+  "appearance": {
+    "general": "Atrophic depressions, rolling or boxcar scars, ice-pick scars, or raised scars may remain after acne.",
+    "light_skin": null,
+    "dark_skin": "Post-inflammatory pigmentation and hypertrophic or keloid scarring may be more prominent in skin of colour."
+  },
+  "common_lookalikes": [
+    "Post-inflammatory hyperpigmentation without scarring",
+    "Keloids from other causes"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss whether the remaining change is true scar tissue, pigmentary change, or both."
+  ],
+  "sources": [
+    {
+      "title": "Acne Scarring",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/acne-scarring",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

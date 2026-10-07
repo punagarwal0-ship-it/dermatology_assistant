@@ -1,0 +1,24 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Conservative dataset entry. Source-specific claims not verified in this batch are intentionally omitted.",
+  "condition_name": "Keratoderma with Secondary Infection",
+  "description": "A dataset label indicating keratoderma with a secondary infection; the specific infection is not established by the label alone.",
+  "symptoms": [
+    "Thickened skin with possible infection"
+  ],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [
+    "Professional assessment is appropriate when infection is suspected."
+  ],
+  "doctor_discussion_points": [],
+  "sources": []
+}

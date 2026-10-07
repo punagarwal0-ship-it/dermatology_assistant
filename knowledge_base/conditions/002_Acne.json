@@ -1,0 +1,55 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Acne",
+  "description": "A common inflammatory disorder of pilosebaceous units producing comedones and inflammatory lesions, usually on the face, chest, and back.",
+  "symptoms": [
+    "Blackheads or whiteheads",
+    "Papules and pustules",
+    "Tender nodules may occur"
+  ],
+  "causes": [
+    "Follicular plugging",
+    "Increased sebum production",
+    "Inflammation and changes involving Cutibacterium acnes"
+  ],
+  "risk_factors": [
+    "Adolescence",
+    "Family history",
+    "Hormonal influences",
+    "Some medications"
+  ],
+  "appearance": {
+    "general": "A mixed eruption of open and closed comedones with inflammatory papules, pustules, or deeper nodules.",
+    "light_skin": null,
+    "dark_skin": "Acne may be followed by persistent post-inflammatory hyperpigmentation in skin of colour."
+  },
+  "common_lookalikes": [
+    "Rosacea",
+    "Folliculitis",
+    "Perioral dermatitis"
+  ],
+  "warning_signs": [
+    "Severe nodular acne or scarring should prompt professional assessment."
+  ],
+  "general_first_aid": [
+    "Avoid squeezing or picking lesions.",
+    "Use gentle skin cleansing and avoid harsh scrubbing."
+  ],
+  "prevention": [
+    "Avoid picking or squeezing.",
+    "Reduce avoidable occlusive or irritating products when they clearly worsen lesions."
+  ],
+  "doctor_discussion_points": [
+    "Discuss severity, scarring, menstrual or hormonal associations, and medication history."
+  ],
+  "sources": [
+    {
+      "title": "Acne vulgaris",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/acne-vulgaris",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Hemangioma",
+  "description": "A benign vascular tumour or vascular lesion characterised by proliferation or dilation of blood vessels.",
+  "symptoms": [
+    "Usually asymptomatic",
+    "Bleeding or ulceration can occur in some lesions"
+  ],
+  "causes": [
+    "Vascular proliferation or malformation depending on lesion type"
+  ],
+  "risk_factors": [
+    "Depend on the specific hemangioma subtype"
+  ],
+  "appearance": {
+    "general": "A red, blue, or skin-coloured vascular papule, plaque, or nodule; appearance varies by subtype.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Pyogenic granuloma",
+    "Vascular malformation",
+    "Melanocytic lesions"
+  ],
+  "warning_signs": [
+    "Rapid growth, ulceration, bleeding, or involvement of vision or other vital structures warrants assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

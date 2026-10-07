@@ -1,0 +1,31 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Erythema Annulare Centrifugum",
+  "description": "An annular inflammatory skin eruption characterised by expanding rings or arcs.",
+  "symptoms": [
+    "Mild itch may occur",
+    "Scaly edge may be present"
+  ],
+  "causes": [
+    "The exact cause is often not identified; some cases are associated with an underlying trigger or condition"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Annular or polycyclic erythematous lesions that expand centrifugally, sometimes with a trailing scale.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea corporis",
+    "Granuloma annulare",
+    "Erythema migrans"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss recent infections, medicines, and any associated systemic symptoms if the eruption persists."
+  ],
+  "sources": null
+}

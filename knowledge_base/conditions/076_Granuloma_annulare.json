@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Granuloma annulare",
+  "description": "A benign inflammatory skin condition producing annular rings of papules.",
+  "symptoms": [
+    "Usually asymptomatic",
+    "Mild itch can occur"
+  ],
+  "causes": [
+    "Cause is not fully understood"
+  ],
+  "risk_factors": [
+    "Some cases are associated with diabetes or other conditions"
+  ],
+  "appearance": {
+    "general": "Smooth skin-coloured or erythematous papules arranged in rings, commonly on the hands, feet, elbows, or other extremities.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Tinea corporis",
+    "Erythema annulare centrifugum",
+    "Necrobiosis lipoidica"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss persistent, widespread, or atypical lesions and whether biopsy is needed."
+  ],
+  "sources": null
+}

@@ -1,0 +1,58 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Diaper Dermatitis",
+  "description": "Inflammatory dermatitis affecting skin under a diaper or nappy, most commonly due to irritant contact dermatitis.",
+  "symptoms": [
+    "Redness",
+    "Irritation",
+    "Tenderness",
+    "Scaling or erosions"
+  ],
+  "causes": [
+    "Moisture and occlusion",
+    "Contact with urine and stool",
+    "Friction",
+    "Secondary Candida or bacterial infection can complicate dermatitis"
+  ],
+  "risk_factors": [
+    "Infancy",
+    "Frequent stooling or diarrhoea",
+    "Prolonged moisture exposure",
+    "Underlying eczema or seborrhoeic dermatitis"
+  ],
+  "appearance": {
+    "general": "Erythematous macules and papules in the diaper area, with fold sparing in classic irritant dermatitis; Candida may produce satellite papules or pustules.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Candidiasis",
+    "Infantile seborrhoeic dermatitis",
+    "Psoriasis",
+    "Impetigo"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [
+    "Keep the diaper area clean and dry.",
+    "Use a protective barrier cream.",
+    "Change diapers frequently."
+  ],
+  "prevention": [
+    "Frequent diaper changes.",
+    "Keep the skin dry.",
+    "Reduce friction and prolonged contact with urine or stool."
+  ],
+  "doctor_discussion_points": [
+    "Discuss whether the rash involves folds, satellite pustules, recurrent episodes, or signs of infection."
+  ],
+  "sources": [
+    {
+      "title": "Napkin dermatitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/napkin-dermatitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

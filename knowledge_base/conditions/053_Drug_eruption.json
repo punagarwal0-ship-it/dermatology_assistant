@@ -1,0 +1,36 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Drug eruption",
+  "description": "A cutaneous eruption associated with exposure to a medication.",
+  "symptoms": [
+    "Rash",
+    "Itching",
+    "Inflammation"
+  ],
+  "causes": [
+    "Drug hypersensitivity or other medication-related adverse reaction"
+  ],
+  "risk_factors": [
+    "Recent medication exposure or dose change"
+  ],
+  "appearance": {
+    "general": "The morphology varies widely and may include maculopapular, urticarial, or other inflammatory eruptions.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Viral exanthem",
+    "Contact dermatitis",
+    "Urticaria"
+  ],
+  "warning_signs": [
+    "Blistering, mucosal involvement, skin pain, facial swelling, difficulty breathing, or systemic illness requires urgent assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss the full medication timeline and previous drug reactions."
+  ],
+  "sources": null
+}

@@ -1,0 +1,37 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Erythema multiforme",
+  "description": "An acute immune-mediated eruption characterised by distinctive targetoid lesions.",
+  "symptoms": [
+    "Target-shaped lesions",
+    "Burning or itching may occur",
+    "Mucosal symptoms can occur in more extensive forms"
+  ],
+  "causes": [
+    "Often associated with infections such as herpes simplex; some cases are associated with medicines"
+  ],
+  "risk_factors": [
+    "Recent herpes simplex infection",
+    "Some medication exposures"
+  ],
+  "appearance": {
+    "general": "Multiple round targetoid lesions, often with a dusky centre and concentric zones, may appear symmetrically on the extremities.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Urticaria",
+    "Fixed drug eruption",
+    "Stevens-Johnson syndrome"
+  ],
+  "warning_signs": [
+    "Mouth, eye, or genital mucosal involvement, extensive blistering, skin pain, or systemic illness requires urgent evaluation."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss recent infections, especially herpes simplex, and recent medicines."
+  ],
+  "sources": null
+}

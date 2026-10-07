@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Epidermal nevus",
+  "description": "A benign congenital or early-onset hamartomatous proliferation of the epidermis.",
+  "symptoms": [
+    "Usually asymptomatic",
+    "Itching may occur in some lesions"
+  ],
+  "causes": [
+    "Abnormal epidermal development"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "A well-demarcated, often linear or whorled verrucous plaque that may follow developmental skin patterns.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Seborrhoeic keratosis",
+    "Inflammatory linear verrucous epidermal naevus",
+    "Viral warts"
+  ],
+  "warning_signs": [
+    "A lesion that changes rapidly, bleeds, or becomes painful should be assessed."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss age of onset, growth pattern, and any recent change."
+  ],
+  "sources": null
+}

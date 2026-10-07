@@ -1,0 +1,37 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Cutaneous Anthrax",
+  "description": "A localized skin infection caused by Bacillus anthracis, usually acquired through contact with infected animals or animal products.",
+  "symptoms": [
+    "Initial itchy papule",
+    "Blistering may occur",
+    "Painless ulcer with black eschar may develop",
+    "Swelling around the lesion"
+  ],
+  "causes": [
+    "Bacillus anthracis"
+  ],
+  "risk_factors": [
+    "Occupational or environmental exposure to infected animals or contaminated animal products"
+  ],
+  "appearance": {
+    "general": "A papule progresses to a vesicle or ulcer with a characteristic black eschar and surrounding oedema.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Insect bite reaction",
+    "Ecthyma",
+    "Other necrotic ulcers"
+  ],
+  "warning_signs": [
+    "Rapidly increasing swelling, systemic illness, fever, or suspected occupational exposure requires urgent medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss animal exposure, occupational history, and timing of lesion development."
+  ],
+  "sources": null
+}

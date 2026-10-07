@@ -1,0 +1,39 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Drug Rash",
+  "description": "A skin eruption caused by an adverse reaction to a medicine.",
+  "symptoms": [
+    "Rash",
+    "Itching",
+    "Red or inflamed skin",
+    "Other symptoms depend on the drug reaction"
+  ],
+  "causes": [
+    "Adverse reaction to a medication"
+  ],
+  "risk_factors": [
+    "Recent or new medication exposure"
+  ],
+  "appearance": {
+    "general": "Drug eruptions can have many appearances, including widespread macules, papules, plaques, or other inflammatory patterns.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Viral exanthem",
+    "Contact dermatitis",
+    "Urticaria"
+  ],
+  "warning_signs": [
+    "Facial swelling, difficulty breathing, blistering, skin pain, mouth or eye involvement, or extensive skin peeling requires urgent medical evaluation."
+  ],
+  "general_first_aid": [
+    "Do not take additional doses of a suspected culprit medicine unless advised by the prescribing clinician; seek professional advice promptly."
+  ],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "List all medicines, supplements, and recent medication changes and when the rash began."
+  ],
+  "sources": null
+}

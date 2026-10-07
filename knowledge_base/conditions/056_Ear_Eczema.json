@@ -1,0 +1,35 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Ear Eczema",
+  "description": "Eczematous inflammation affecting the external ear or ear canal region.",
+  "symptoms": [
+    "Itching",
+    "Dryness",
+    "Scaling",
+    "Irritation"
+  ],
+  "causes": [
+    "Eczematous skin inflammation; contact irritation or allergy may contribute"
+  ],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Dry, scaly, inflamed skin may affect the outer ear or entrance to the ear canal.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Seborrhoeic dermatitis",
+    "Contact dermatitis",
+    "Otitis externa"
+  ],
+  "warning_signs": [
+    "Significant ear pain, discharge, fever, or hearing change requires medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss headphones, hearing aids, hair products, earrings, or topical products that may contact the ear."
+  ],
+  "sources": null
+}

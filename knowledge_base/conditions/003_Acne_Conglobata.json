@@ -1,0 +1,25 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Acne Conglobata",
+  "description": "A severe chronic nodulocystic acne variant with interconnected inflammatory nodules and abscess-like lesions.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [
+    "Severe acne",
+    "Male sex in many reported patients"
+  ],
+  "appearance": {
+    "general": "Deep tender nodules, pustules, drainage, and scarring may occur.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Deep painful lesions and scarring warrant dermatologic assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [],
+  "sources": null
+}

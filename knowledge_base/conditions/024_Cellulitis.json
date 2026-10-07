@@ -1,0 +1,46 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Cellulitis",
+  "description": "A bacterial infection of the deeper dermis and subcutaneous tissue causing a localized painful inflammatory skin reaction.",
+  "symptoms": [
+    "Pain",
+    "Swelling",
+    "Tenderness",
+    "Fever or other systemic symptoms may occur"
+  ],
+  "causes": [
+    "Bacterial infection"
+  ],
+  "risk_factors": [
+    "Previous cellulitis",
+    "Skin fissures or tinea pedis",
+    "Venous disease",
+    "Trauma",
+    "Diabetes",
+    "Immunodeficiency"
+  ],
+  "appearance": {
+    "general": "An area of painful swollen inflamed skin, often on a limb; the affected area may enlarge progressively.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [
+    "Rapidly spreading redness, severe pain, fever, systemic illness, or involvement of the face or eye region requires prompt medical assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss recent wounds, athlete's foot, swelling, diabetes, and prior episodes."
+  ],
+  "sources": [
+    {
+      "title": "Cellulitis",
+      "organization": "DermNet NZ",
+      "url": "https://dermnetnz.org/topics/cellulitis",
+      "source_type": "DermNet",
+      "accessed_date": "2026-10-07"
+    }
+  ]
+}

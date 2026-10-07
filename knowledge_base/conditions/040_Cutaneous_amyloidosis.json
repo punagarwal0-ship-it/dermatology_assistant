@@ -1,0 +1,22 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Cutaneous amyloidosis",
+  "description": "A group of skin disorders caused by deposition of amyloid in the skin.",
+  "symptoms": [],
+  "causes": [],
+  "risk_factors": [],
+  "appearance": {
+    "general": "Pruritic hyperpigmented papules, plaques, or smooth pigmentary macules may occur depending on subtype.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss subtype, distribution, chronicity, and whether systemic evaluation is relevant."
+  ],
+  "sources": null
+}

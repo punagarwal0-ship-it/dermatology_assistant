@@ -1,0 +1,38 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Herpes Labialis",
+  "description": "Recurrent herpes simplex infection of the lips or nearby skin, commonly known as cold sores.",
+  "symptoms": [
+    "Tingling or burning",
+    "Grouped blisters",
+    "Pain or crusting"
+  ],
+  "causes": [
+    "Herpes simplex virus, most commonly HSV-1"
+  ],
+  "risk_factors": [
+    "Previous HSV infection",
+    "Sun exposure, illness, stress, or other triggers may precipitate recurrence"
+  ],
+  "appearance": {
+    "general": "Clusters of small vesicles on an erythematous base near the lip that later crust and heal.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Impetigo",
+    "Angular cheilitis",
+    "Aphthous lesions"
+  ],
+  "warning_signs": [
+    "Eye pain or eye redness with nearby herpes lesions requires urgent assessment."
+  ],
+  "general_first_aid": [],
+  "prevention": [
+    "Avoid kissing or direct contact with lesions while active.",
+    "Avoid sharing lip products or utensils during outbreaks."
+  ],
+  "doctor_discussion_points": [],
+  "sources": null
+}

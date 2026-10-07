@@ -1,0 +1,33 @@
+{
+  "_PLACEHOLDER": false,
+  "_note": "Source-grounded entry for EQUIDERMA AI. Unsupported fields are intentionally null or empty.",
+  "condition_name": "Idiopathic Guttate Hypomelanosis",
+  "description": "A common benign pigmentary condition causing multiple small pale macules, especially on sun-exposed limbs.",
+  "symptoms": [
+    "Usually asymptomatic"
+  ],
+  "causes": [
+    "Likely related to chronic sun exposure and age-related changes"
+  ],
+  "risk_factors": [
+    "Increasing age",
+    "Chronic ultraviolet exposure"
+  ],
+  "appearance": {
+    "general": "Multiple small, sharply demarcated pale or white macules, commonly on the shins and forearms.",
+    "light_skin": null,
+    "dark_skin": null
+  },
+  "common_lookalikes": [
+    "Vitiligo",
+    "Pityriasis alba",
+    "Post-inflammatory hypopigmentation"
+  ],
+  "warning_signs": [],
+  "general_first_aid": [],
+  "prevention": [],
+  "doctor_discussion_points": [
+    "Discuss whether the spots are stable and whether any lesions have changed in character."
+  ],
+  "sources": null
+}
