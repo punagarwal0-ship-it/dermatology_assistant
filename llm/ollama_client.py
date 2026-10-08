@@ -19,78 +19,117 @@ fed with the vision model's output + questionnaire + knowledge base
 context (see llm/prompt_engine.py).
 """
 
+# llm/ollama_client.py
+
+import requests
 import json
 from typing import Optional
 
-import requests
-
-DEFAULT_BASE_URL = "http://localhost:11434"
-DEFAULT_MODEL = "llama3.1"  # change to whatever you have pulled, e.g. "phi3"
-DEFAULT_TIMEOUT_SECONDS = 120
-
-
 class OllamaClient:
-    def __init__(self, base_url: str = DEFAULT_BASE_URL, model: str = DEFAULT_MODEL):
+    """
+    Client for communicating with local Ollama LLM server.
+    """
+    
+    def __init__(self, base_url: str = "http://localhost:11434", model: str = "phi3"):
+        """
+        Initialize Ollama client.
+        
+        Args:
+            base_url: Ollama API endpoint (default: local)
+            model: Model name to use (default: phi3)
+        """
         self.base_url = base_url.rstrip("/")
         self.model = model
-
+    
     def is_available(self) -> bool:
+        """
+        Check if Ollama server is running and accessible.
+        
+        Returns:
+            True if server responds, False otherwise
+        """
         try:
-            resp = requests.get(f"{self.base_url}/api/tags", timeout=5)
-            return resp.status_code == 200
-        except requests.exceptions.RequestException:
+            response = requests.get(f"{self.base_url}/api/tags", timeout=2)
+            return response.status_code == 200
+        except Exception as e:
+            print(f"⚠️ Ollama not available: {e}")
             return False
-
-    def list_models(self):
-        resp = requests.get(f"{self.base_url}/api/tags", timeout=10)
-        resp.raise_for_status()
-        return [m["name"] for m in resp.json().get("models", [])]
-
-    def generate(self, prompt: str, model: Optional[str] = None, temperature: float = 0.2) -> str:
+    
+    def list_models(self) -> list:
         """
-        Single-shot generation (non-streaming) against /api/generate.
-        Raises requests.exceptions.RequestException if Ollama is unreachable.
+        List available models on Ollama server.
+        
+        Returns:
+            List of model names
         """
-        payload = {
-            "model": model or self.model,
-            "prompt": prompt,
-            "stream": False,
-            "options": {"temperature": temperature},
-        }
-        resp = requests.post(
-            f"{self.base_url}/api/generate",
-            data=json.dumps(payload),
-            headers={"Content-Type": "application/json"},
-            timeout=DEFAULT_TIMEOUT_SECONDS,
-        )
-        resp.raise_for_status()
-        return resp.json().get("response", "")
-
-    def chat(self, messages: list, model: Optional[str] = None, temperature: float = 0.2) -> str:
+        try:
+            response = requests.get(f"{self.base_url}/api/tags", timeout=5)
+            data = response.json()
+            models = [model["name"] for model in data.get("models", [])]
+            return models
+        except Exception as e:
+            print(f"Error listing models: {e}")
+            return []
+    
+    def generate(self, prompt: str, max_tokens: int = 500, temperature: float = 0.7) -> str:
         """
-        messages: list of {"role": "user"|"assistant"|"system", "content": str}
+        Generate text using Ollama.
+        
+        Args:
+            prompt: Input prompt
+            max_tokens: Maximum tokens to generate (default: 500)
+            temperature: Sampling temperature (0-1, higher = more creative)
+        
+        Returns:
+            Generated text response
         """
-        payload = {
-            "model": model or self.model,
-            "messages": messages,
-            "stream": False,
-            "options": {"temperature": temperature},
-        }
-        resp = requests.post(
-            f"{self.base_url}/api/chat",
-            data=json.dumps(payload),
-            headers={"Content-Type": "application/json"},
-            timeout=DEFAULT_TIMEOUT_SECONDS,
-        )
-        resp.raise_for_status()
-        return resp.json().get("message", {}).get("content", "")
+        if not self.is_available():
+            raise ConnectionError(
+                f"Ollama server not available at {self.base_url}\n"
+                "Make sure Ollama is running: ollama serve"
+            )
+        
+        try:
+            payload = {
+                "model": self.model,
+                "prompt": prompt,
+                "stream": False,
+                "temperature": temperature,
+                "num_predict": max_tokens,
+            }
+            
+            response = requests.post(
+                f"{self.base_url}/api/generate",
+                json=payload,
+                timeout=60
+            )
+            
+            if response.status_code != 200:
+                raise Exception(f"Ollama error: {response.status_code} {response.text}")
+            
+            data = response.json()
+            return data.get("response", "").strip()
+        
+        except requests.Timeout:
+            raise TimeoutError("Ollama request timed out (>60s). Model may be processing.")
+        except Exception as e:
+            raise Exception(f"Ollama generation failed: {e}")
 
 
+# Test Ollama connection
 if __name__ == "__main__":
     client = OllamaClient()
-    if not client.is_available():
-        print(f"[WARN] Could not reach Ollama at {client.base_url}")
-        print("       Make sure Ollama is installed and running (`ollama serve`).")
+    
+    # Check availability
+    if client.is_available():
+        print("✅ Ollama is running!")
+        
+        # List models
+        models = client.list_models()
+        print(f"📦 Available models: {models}")
+        
+        # Test generation
+        response = client.generate("What is eczema? (1 sentence)", max_tokens=100)
+        print(f"\n🤖 Ollama response:\n{response}")
     else:
-        print(f"[OK] Ollama reachable at {client.base_url}")
-        print(f"Models available: {client.list_models()}")
+        print("❌ Ollama not running. Start it with: ollama serve")
