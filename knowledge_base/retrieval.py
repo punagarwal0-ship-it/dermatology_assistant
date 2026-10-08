@@ -13,101 +13,128 @@ Usage:
     results = kb.retrieve("itchy red patches on arm", top_k=3)
 """
 
+# knowledge_base/retrieval.py
+
 import json
-import re
+import os
 from pathlib import Path
 from typing import List, Dict
 
-CONDITIONS_DIR = Path(__file__).resolve().parent / "conditions"
-
-STOPWORDS = {
-    "the", "a", "an", "and", "or", "of", "on", "in", "with", "for", "to",
-    "is", "are", "was", "were", "it", "this", "that", "my", "me", "i",
-}
-
-
-def _tokenize(text: str) -> List[str]:
-    tokens = re.findall(r"[a-zA-Z]+", text.lower())
-    return [t for t in tokens if t not in STOPWORDS]
-
-
-def _load_all_conditions() -> List[Dict]:
-    entries = []
-    for path in sorted(CONDITIONS_DIR.glob("*.json")):
-        if path.name.startswith("_TEMPLATE"):
-            continue
-        with open(path, encoding="utf-8") as f:
-            data = json.load(f)
-        data["_source_file"] = path.name
-        entries.append(data)
-    return entries
-
-
-def _entry_text_blob(entry: Dict) -> str:
-    """Flatten the searchable text fields of a condition entry into one string."""
-    parts = [
-        entry.get("condition_name", ""),
-        entry.get("description", ""),
-        " ".join(entry.get("symptoms", [])),
-        " ".join(entry.get("causes", [])),
-        " ".join(entry.get("risk_factors", [])),
-        entry.get("appearance", {}).get("general", ""),
-        entry.get("appearance", {}).get("light_skin", ""),
-        entry.get("appearance", {}).get("dark_skin", ""),
-        " ".join(entry.get("common_lookalikes", [])),
-    ]
-    return " ".join(parts)
-
-
 class KnowledgeBaseRetriever:
-    def __init__(self):
-        self.entries = _load_all_conditions()
-        self._blobs = [_tokenize(_entry_text_blob(e)) for e in self.entries]
-
-    def reload(self):
-        self.__init__()
-
+    def __init__(self, kb_root: str = "knowledge_base/conditions"):
+        """
+        Initialize knowledge base from JSON files.
+        
+        Args:
+            kb_root: Path to folder containing condition JSONs
+        """
+        self.kb_root = Path(kb_root)
+        self.conditions = {}
+        self._load_kb()
+    
+    def _load_kb(self):
+        """Load all JSON files from kb_root into memory."""
+        if not self.kb_root.exists():
+            print(f"⚠️ KB folder not found: {self.kb_root}")
+            return
+        
+        json_files = list(self.kb_root.glob("*.json"))
+        print(f"🔄 Loading {len(json_files)} KB entries...")
+        
+        for json_file in json_files:
+            try:
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                # Skip placeholder template
+                if json_file.name == "_TEMPLATE.json":
+                    continue
+                
+                # Skip entries marked as placeholder
+                if data.get("_PLACEHOLDER", True):
+                    continue
+                
+                # Get condition name (required field)
+                condition_name = data.get("condition_name", "")
+                if not condition_name:
+                    print(f"  ⚠️ Skipping (no condition_name): {json_file.name}")
+                    continue
+                
+                # Use condition_name as key
+                key = condition_name.lower().replace(" ", "_")
+                self.conditions[key] = data
+                print(f"  ✅ Loaded: {condition_name}")
+            
+            except json.JSONDecodeError as e:
+                print(f"  ❌ JSON error in {json_file.name}: {e}")
+            except Exception as e:
+                print(f"  ❌ Error in {json_file.name}: {e}")
+        
+        print(f"✅ Total conditions loaded: {len(self.conditions)}\n")
+    
     def retrieve(self, query: str, top_k: int = 3) -> List[Dict]:
         """
-        Returns up to top_k condition entries, ranked by simple token
-        overlap with the query. Each result includes a 'relevance' score
-        in [0, 1] (fraction of query tokens matched) and the full entry.
-
-        This is a placeholder ranking method. To upgrade to embeddings later,
-        implement a new class with the same retrieve() signature (e.g. using
-        sentence-transformers + FAISS) and swap it in at the call site.
+        Retrieve matching conditions. Handles various naming formats.
+        
+        Args:
+            query: Disease label from vision model (e.g., "Psoriasis", "Infected Eczema")
+            top_k: Number of results to return
+        
+        Returns:
+            List of matching conditions
         """
-        query_tokens = set(_tokenize(query))
-        if not query_tokens:
+        if not self.conditions:
+            print(f"⚠️ No conditions loaded in KB")
             return []
-
-        scored = []
-        for entry, blob_tokens in zip(self.entries, self._blobs):
-            blob_set = set(blob_tokens)
-            overlap = query_tokens & blob_set
-            score = len(overlap) / len(query_tokens) if query_tokens else 0.0
-            if score > 0:
-                scored.append((score, entry))
-
-        scored.sort(key=lambda x: x[0], reverse=True)
+        
+        # Normalize query: lowercase, replace spaces with underscores
+        query_normalized = query.lower().replace(" ", "_")
         results = []
-        for score, entry in scored[:top_k]:
-            results.append({
-                "relevance": round(score, 3),
-                "entry": entry,
-            })
-        return results
+        
+        # Try exact match first (fastest)
+        if query_normalized in self.conditions:
+            return [{"condition": self.conditions[query_normalized], "score": 100}]
+        
+        # Try substring matching on normalized names
+        for key, condition in self.conditions.items():
+            condition_name = condition.get("condition_name", "").lower().replace(" ", "_")
+            
+            # Full match
+            if query_normalized == condition_name:
+                results.append({"condition": condition, "score": 100})
+            # Substring match (query is part of condition name)
+            elif query_normalized in condition_name:
+                results.append({"condition": condition, "score": 80})
+            # Reverse substring match (condition name is part of query)
+            elif condition_name in query_normalized:
+                results.append({"condition": condition, "score": 70})
+        
+        # Remove duplicates and sort by score
+        seen = set()
+        unique_results = []
+        for r in sorted(results, key=lambda x: x["score"], reverse=True):
+            key = r["condition"].get("condition_name", "")
+            if key not in seen:
+                seen.add(key)
+                unique_results.append(r)
+        
+        return unique_results[:top_k]
+    
+    def get_condition_by_name(self, condition_name: str) -> Dict:
+        """
+        Direct lookup by condition name.
+        
+        Args:
+            condition_name: Disease name (e.g., "eczema_atopic")
+        
+        Returns:
+            Condition dictionary or empty dict if not found
+        """
+        key = condition_name.lower().replace(" ", "_")
+        return self.conditions.get(key, {})
 
-    def get_by_name(self, condition_name: str) -> Dict:
-        for entry in self.entries:
-            if entry.get("condition_name", "").lower() == condition_name.lower():
-                return entry
-        return None
 
-
+# Test
 if __name__ == "__main__":
-    kb = KnowledgeBaseRetriever()
-    print(f"Loaded {len(kb.entries)} condition entries (placeholder content).")
-    demo_results = kb.retrieve("itchy red patches", top_k=3)
-    for r in demo_results:
-        print(f"  {r['relevance']:.2f}  {r['entry'].get('condition_name')}  [{r['entry'].get('_source_file')}]")
+    retriever = KnowledgeBaseRetriever()
+    print(f"Loaded {len(retriever.conditions)} conditions") content).")
