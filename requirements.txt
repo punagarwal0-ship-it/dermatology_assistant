@@ -25,6 +25,7 @@ streamlit>=1.28.0
 
 # Local LLM (Ollama) client
 requests>=2.31.0
+ollama>=0.1.6
 
 # Utility
 tqdm>=4.65.0
