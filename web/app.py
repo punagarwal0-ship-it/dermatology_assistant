@@ -160,42 +160,84 @@ def main():
             for item in get_general_emergency_guidance():
                 st.write(f"- {item}")
 
-        st.subheader("4. Knowledge base context (placeholder content)")
+        st.subheader("4. Knowledge base context")
         if pil_image is not None or free_text:
-            query = free_text or (vision_results[0]["disease_label"] if vision_results else "")
-            if query:
-                kb_results = kb.retrieve(query, top_k=3)
-                skin_hint = ""
-                kb_text = format_kb_results_for_prompt(kb_results, skin_tone_hint=skin_hint)
-                st.text(kb_text)
+            # If user typed something, use that; otherwise use top predictions
+            queries = []
+            if free_text:
+                queries.append(free_text)
+            elif vision_results:
+                # Collect top 3 predicted disease labels
+                queries = [r["disease_label"] for r in vision_results[:3]]
+
+            if queries:
+                for q in queries:
+                    st.markdown(f"**Context for: {q}**")
+                    kb_results = kb.retrieve(q, top_k=3)
+                    kb_text = format_kb_results_for_prompt(kb_results, skin_tone_hint="")
+                    st.text(kb_text)
             else:
                 st.write("No query available yet - upload an image or describe the area above.")
+
+        # In web/app.py, replace the LLM explanation section:
 
         st.subheader("5. Local LLM explanation (Ollama)")
         st.caption(
             "Requires Ollama running locally (`ollama serve`) with a model pulled "
             "(see llm/ollama_client.py). This step is optional."
         )
+
         if st.button("Generate explanation with local Ollama model"):
             client = OllamaClient()
+            
             if not client.is_available():
                 st.error(
-                    "Could not reach a local Ollama server at http://localhost:11434. "
-                    "Install Ollama, run `ollama serve`, and pull a model (e.g. `ollama pull llama3.1`)."
+                    "❌ Could not reach Ollama server at http://localhost:11434\n\n"
+                    "**To fix:**\n"
+                    "1. Install Ollama from https://ollama.com\n"
+                    "2. Open a separate terminal and run: `ollama serve`\n"
+                    "3. In another terminal, download a model: `ollama pull llama2`\n"
+                    "4. Come back here and click the button again"
                 )
             elif not vision_results:
-                st.warning("Upload an image and get vision predictions first.")
+                st.warning("⚠️ Upload an image and get vision predictions first.")
             else:
-                query = vision_results[0]["disease_label"]
-                kb_results = kb.retrieve(query, top_k=3)
-                kb_text = format_kb_results_for_prompt(kb_results)
+                # Get top condition from vision model
+                top_condition = vision_results[0]["disease_label"]
+                
+                # Retrieve KB context
+                kb_results = kb.retrieve(top_condition, top_k=3)
+                kb_text = format_kb_results_for_prompt(kb_results, skin_tone_hint="")
+                
+                # Build combined prompt
                 prompt = build_prompt(vision_results, answers, kb_text, flags)
-                with st.spinner("Generating explanation locally..."):
+                
+                # Generate explanation
+                with st.spinner("🤖 Generating explanation with Ollama (this may take 10-30 seconds)..."):
                     try:
-                        response = client.generate(prompt)
+                        response = client.generate(prompt, max_tokens=600, temperature=0.7)
+                        
+                        st.success("✅ Explanation generated!")
                         st.write(response)
+                        
+                        # Always show disclaimer
+                        st.warning(
+                            "⚠️ **IMPORTANT DISCLAIMER**\n\n"
+                            "This explanation is based on image analysis and symptoms alone. "
+                            "It is NOT a medical diagnosis. "
+                            "**You must consult a licensed dermatologist for professional evaluation and treatment.**"
+                        )
+                    
+                    except TimeoutError:
+                        st.error(
+                            "⏱️ Ollama took too long to respond (>60 seconds). "
+                            "This may happen if:\n"
+                            "- Model is large (use `llama2` or `phi3` instead)\n"
+                            "- Your computer is slow\n"
+                            "Try again or use a smaller model"
+                        )
                     except Exception as e:
-                        st.error(f"Ollama request failed: {e}")
+                        st.error(f"❌ Ollama error: {e}")
 
 
 if __name__ == "__main__":
