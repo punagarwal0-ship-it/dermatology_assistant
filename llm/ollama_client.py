@@ -8,9 +8,9 @@ running on the same machine (default: http://localhost:11434).
 Setup (manual, one-time, outside this repo):
     1. Install Ollama: https://ollama.com/download
     2. Pull a model, e.g.:
-         ollama pull llama3.1
-       or a smaller model if your laptop is limited, e.g.:
          ollama pull phi3
+       or a smaller model if your laptop is limited, e.g.:
+         ollama pull phi3:mini
     3. Ollama runs its server automatically after install (or run `ollama serve`)
 
 This client does NOT generate or alter vision-model probabilities. It is
